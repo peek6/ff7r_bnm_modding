@@ -1,0 +1,103 @@
+Printing out values for BNM index 1, BNM type m_SceneManager:
+Hair Nodes: 0
+Printing out values for BNM index 2, BNM type m_Solvers:
+Index 2: Group ID: 2, Group: HairTail_Col, 
+Index 3: Group ID: 3, Group: HairTail, 
+Index 15: Group ID: 15, Group: Hair, 
+Index 18: Group ID: 18, Group: HairTailB_Col, 
+Index 19: Group ID: 19, Group: HairSideLong_Col, 
+Index 33: Group ID: 33, Group: HairSideLong_l, 
+Index 34: Group ID: 34, Group: HairSideLong_r, 
+Hair Nodes: 7
+Printing out values for BNM index 3, BNM type m_Bodies:
+Index 262: Group ID: 15, Joint: L_HairD_a_Phy, Child: {263: L_HairD_b_Phy_Body0}
+Index 263: Group ID: 15, Joint: L_HairD_b_Phy, Parent: {262: L_HairD_a_Phy_Body0}, Child: {264: L_HairD_c_Phy_Body0}
+Index 264: Group ID: 15, Joint: L_HairD_c_Phy, Parent: {263: L_HairD_b_Phy_Body0}, 
+Index 265: Group ID: 15, Joint: L_HairA_a_Phy, Child: {266: L_HairA_b_Phy_Body0}
+Index 266: Group ID: 15, Joint: L_HairA_b_Phy, Parent: {265: L_HairA_a_Phy_Body0}, Child: {267: L_HairA_c_Phy_Body0}
+Index 267: Group ID: 15, Joint: L_HairA_c_Phy, Parent: {266: L_HairA_b_Phy_Body0}, Child: {268: L_HairA_d_Phy_Body0}
+Index 268: Group ID: 15, Joint: L_HairA_d_Phy, Parent: {267: L_HairA_c_Phy_Body0}, 
+Index 269: Group ID: 15, Joint: R_HairA_a_Phy, Child: {270: R_HairA_b_Phy_Body0}
+Index 270: Group ID: 15, Joint: R_HairA_b_Phy, Parent: {269: R_HairA_a_Phy_Body0}, Child: {271: R_HairA_c_Phy_Body0}
+Index 271: Group ID: 15, Joint: R_HairA_c_Phy, Parent: {270: R_HairA_b_Phy_Body0}, Child: {272: R_HairA_d_Phy_Body0}
+Index 272: Group ID: 15, Joint: R_HairA_d_Phy, Parent: {271: R_HairA_c_Phy_Body0}, 
+Index 273: Group ID: 33, Joint: L_HairC_a_Phy, Child: {274: L_HairC_b_Phy_Body0}
+Index 274: Group ID: 33, Joint: L_HairC_b_Phy, Parent: {273: L_HairC_a_Phy_Body0}, Child: {275: L_HairC_c_Phy_Body0}
+Index 275: Group ID: 33, Joint: L_HairC_c_Phy, Parent: {274: L_HairC_b_Phy_Body0}, Child: {276: L_HairC_d_Phy_Body0}
+Index 276: Group ID: 33, Joint: L_HairC_d_Phy, Parent: {275: L_HairC_c_Phy_Body0}, Child: {277: L_HairC_e_Phy_Body0}
+Index 277: Group ID: 33, Joint: L_HairC_e_Phy, Parent: {276: L_HairC_d_Phy_Body0}, Child: {278: L_HairC_f_Phy_Body0}
+Index 278: Group ID: 33, Joint: L_HairC_f_Phy, Parent: {277: L_HairC_e_Phy_Body0}, 
+Index 279: Group ID: 34, Joint: R_HairC_a_Phy, Child: {280: R_HairC_b_Phy_Body0}
+Index 280: Group ID: 34, Joint: R_HairC_b_Phy, Parent: {279: R_HairC_a_Phy_Body0}, Child: {281: R_HairC_c_Phy_Body0}
+Index 281: Group ID: 34, Joint: R_HairC_c_Phy, Parent: {280: R_HairC_b_Phy_Body0}, Child: {282: R_HairC_d_Phy_Body0}
+Index 282: Group ID: 34, Joint: R_HairC_d_Phy, Parent: {281: R_HairC_c_Phy_Body0}, Child: {283: R_HairC_e_Phy_Body0}
+Index 283: Group ID: 34, Joint: R_HairC_e_Phy, Parent: {282: R_HairC_d_Phy_Body0}, Child: {284: R_HairC_f_Phy_Body0}
+Index 284: Group ID: 34, Joint: R_HairC_f_Phy, Parent: {283: R_HairC_e_Phy_Body0}, 
+Index 285: Group ID: 3, Joint: C_HairB_a_Phy, Child: {286: C_HairB_b_Phy_Body0}
+Index 286: Group ID: 3, Joint: C_HairB_b_Phy, Parent: {285: C_HairB_a_Phy_Body0}, Child: {287: C_HairB_c_Phy_Body0}
+Index 287: Group ID: 3, Joint: C_HairB_c_Phy, Parent: {286: C_HairB_b_Phy_Body0}, Child: {288: C_HairB_d_Phy_Body0}
+Index 288: Group ID: 3, Joint: C_HairB_d_Phy, Parent: {287: C_HairB_c_Phy_Body0}, Child: {289: C_HairB_e_Phy_Body0}
+Index 289: Group ID: 3, Joint: C_HairB_e_Phy, Parent: {288: C_HairB_d_Phy_Body0}, Child: {290: C_HairB_f_Phy_Body0}
+Index 290: Group ID: 3, Joint: C_HairB_f_Phy, Parent: {289: C_HairB_e_Phy_Body0}, Child: {291: C_HairB_g_Phy_Body0}
+Index 291: Group ID: 3, Joint: C_HairB_g_Phy, Parent: {290: C_HairB_f_Phy_Body0}, Child: {292: C_HairB_h_Phy_Body0}
+Index 292: Group ID: 3, Joint: C_HairB_h_Phy, Parent: {291: C_HairB_g_Phy_Body0}, Child: {293: C_HairB_i_Phy_Body0}
+Index 293: Group ID: 3, Joint: C_HairB_i_Phy, Parent: {292: C_HairB_h_Phy_Body0}, Child: {294: C_HairB_j_Phy_Body0}
+Index 294: Group ID: 3, Joint: C_HairB_j_Phy, Parent: {293: C_HairB_i_Phy_Body0}, 
+Index 295: Group ID: 15, Joint: R_HairD_a_Phy, Child: {296: R_HairD_b_Phy_Body0}
+Index 296: Group ID: 15, Joint: R_HairD_b_Phy, Parent: {295: R_HairD_a_Phy_Body0}, Child: {297: R_HairD_c_Phy_Body0}
+Index 297: Group ID: 15, Joint: R_HairD_c_Phy, Parent: {296: R_HairD_b_Phy_Body0}, 
+Index 298: Group ID: 15, Joint: L_HairB_a_Phy, Child: {299: L_HairB_b_Phy_Body0}
+Index 299: Group ID: 15, Joint: L_HairB_b_Phy, Parent: {298: L_HairB_a_Phy_Body0}, Child: {300: L_HairB_c_Phy_Body0}
+Index 300: Group ID: 15, Joint: L_HairB_c_Phy, Parent: {299: L_HairB_b_Phy_Body0}, Child: {301: L_HairB_d_Phy_Body0}
+Index 301: Group ID: 15, Joint: L_HairB_d_Phy, Parent: {300: L_HairB_c_Phy_Body0}, 
+Index 302: Group ID: 15, Joint: R_HairB_a_Phy, Child: {303: R_HairB_b_Phy_Body0}
+Index 303: Group ID: 15, Joint: R_HairB_b_Phy, Parent: {302: R_HairB_a_Phy_Body0}, Child: {304: R_HairB_c_Phy_Body0}
+Index 304: Group ID: 15, Joint: R_HairB_c_Phy, Parent: {303: R_HairB_b_Phy_Body0}, Child: {305: R_HairB_d_Phy_Body0}
+Index 305: Group ID: 15, Joint: R_HairB_d_Phy, Parent: {304: R_HairB_c_Phy_Body0}, 
+Hair Nodes: 44
+Printing out values for BNM index 4, BNM type m_Links:
+Index 276: Parent: {260: C_Head_a}, Child: {267: L_HairA_c_Phy}
+Index 277: Parent: {261: C_Head_a}, Child: {271: R_HairA_c_Phy}
+Index 278: Parent: {262: L_HairD_a_Phy}, Child: {263: L_HairD_b_Phy}
+Index 279: Parent: {263: L_HairD_b_Phy}, Child: {264: L_HairD_c_Phy}
+Index 280: Parent: {265: L_HairA_a_Phy}, Child: {266: L_HairA_b_Phy}
+Index 281: Parent: {266: L_HairA_b_Phy}, Child: {267: L_HairA_c_Phy}
+Index 282: Parent: {267: L_HairA_c_Phy}, Child: {268: L_HairA_d_Phy}
+Index 283: Parent: {267: L_HairA_c_Phy}, Child: {256: C_Head_a}
+Index 284: Parent: {268: L_HairA_d_Phy}, Child: {257: C_Head_a}
+Index 285: Parent: {269: R_HairA_a_Phy}, Child: {270: R_HairA_b_Phy}
+Index 286: Parent: {270: R_HairA_b_Phy}, Child: {271: R_HairA_c_Phy}
+Index 287: Parent: {271: R_HairA_c_Phy}, Child: {272: R_HairA_d_Phy}
+Index 288: Parent: {271: R_HairA_c_Phy}, Child: {259: C_Head_a}
+Index 289: Parent: {272: R_HairA_d_Phy}, Child: {258: C_Head_a}
+Index 290: Parent: {273: L_HairC_a_Phy}, Child: {274: L_HairC_b_Phy}
+Index 291: Parent: {274: L_HairC_b_Phy}, Child: {275: L_HairC_c_Phy}
+Index 292: Parent: {275: L_HairC_c_Phy}, Child: {276: L_HairC_d_Phy}
+Index 293: Parent: {276: L_HairC_d_Phy}, Child: {277: L_HairC_e_Phy}
+Index 294: Parent: {277: L_HairC_e_Phy}, Child: {278: L_HairC_f_Phy}
+Index 295: Parent: {279: R_HairC_a_Phy}, Child: {280: R_HairC_b_Phy}
+Index 296: Parent: {280: R_HairC_b_Phy}, Child: {281: R_HairC_c_Phy}
+Index 297: Parent: {281: R_HairC_c_Phy}, Child: {282: R_HairC_d_Phy}
+Index 298: Parent: {282: R_HairC_d_Phy}, Child: {283: R_HairC_e_Phy}
+Index 299: Parent: {282: R_HairC_d_Phy}, Child: {276: L_HairC_d_Phy}
+Index 300: Parent: {283: R_HairC_e_Phy}, Child: {284: R_HairC_f_Phy}
+Index 301: Parent: {285: C_HairB_a_Phy}, Child: {286: C_HairB_b_Phy}
+Index 302: Parent: {286: C_HairB_b_Phy}, Child: {287: C_HairB_c_Phy}
+Index 303: Parent: {287: C_HairB_c_Phy}, Child: {288: C_HairB_d_Phy}
+Index 304: Parent: {288: C_HairB_d_Phy}, Child: {289: C_HairB_e_Phy}
+Index 305: Parent: {289: C_HairB_e_Phy}, Child: {290: C_HairB_f_Phy}
+Index 306: Parent: {290: C_HairB_f_Phy}, Child: {291: C_HairB_g_Phy}
+Index 307: Parent: {291: C_HairB_g_Phy}, Child: {292: C_HairB_h_Phy}
+Index 308: Parent: {292: C_HairB_h_Phy}, Child: {293: C_HairB_i_Phy}
+Index 309: Parent: {293: C_HairB_i_Phy}, Child: {294: C_HairB_j_Phy}
+Index 310: Parent: {295: R_HairD_a_Phy}, Child: {296: R_HairD_b_Phy}
+Index 311: Parent: {296: R_HairD_b_Phy}, Child: {297: R_HairD_c_Phy}
+Index 312: Parent: {298: L_HairB_a_Phy}, Child: {299: L_HairB_b_Phy}
+Index 313: Parent: {299: L_HairB_b_Phy}, Child: {300: L_HairB_c_Phy}
+Index 314: Parent: {300: L_HairB_c_Phy}, Child: {301: L_HairB_d_Phy}
+Index 315: Parent: {302: R_HairB_a_Phy}, Child: {303: R_HairB_b_Phy}
+Index 316: Parent: {303: R_HairB_b_Phy}, Child: {304: R_HairB_c_Phy}
+Index 317: Parent: {304: R_HairB_c_Phy}, Child: {305: R_HairB_d_Phy}
+Hair Nodes: 42
+Printing out values for BNM index 5, BNM type m_Planes:
+Hair Nodes: 0

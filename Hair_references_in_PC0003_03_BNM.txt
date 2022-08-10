@@ -1,0 +1,172 @@
+Printing out values for BNM index 1, BNM type m_SceneManager:
+Hair Nodes: 0
+Printing out values for BNM index 2, BNM type m_Solvers:
+Index 3: Group ID: 3, Group: SxyBackHair, 
+Index 6: Group ID: 6, Group: SxyHair, 
+Index 7: Group ID: 7, Group: SxyHairRibon, 
+Index 8: Group ID: 8, Group: SxyHairTailB_Col, 
+Index 9: Group ID: 9, Group: SxyHairSideLong_Col, 
+Index 21: Group ID: 21, Group: SxyHairSideLong_L, 
+Index 22: Group ID: 22, Group: SxyHairSideLong_R, 
+Index 23: Group ID: 23, Group: SxyHair_L, 
+Index 24: Group ID: 24, Group: SxyHair_R, 
+Hair Nodes: 9
+Printing out values for BNM index 3, BNM type m_Bodies:
+Index 34: Group ID: 6, Joint: C_HairA_a_Phy, Child: {35: C_HairA_b_Phy_Body0}
+Index 35: Group ID: 6, Joint: C_HairA_b_Phy, Parent: {34: C_HairA_a_Phy_Body0}, 
+Index 36: Group ID: 6, Joint: L_HairE_a_Phy, Child: {37: L_HairE_b_Phy_Body0}
+Index 37: Group ID: 6, Joint: L_HairE_b_Phy, Parent: {36: L_HairE_a_Phy_Body0}, 
+Index 38: Group ID: 6, Joint: R_HairE_a_Phy, Child: {39: R_HairE_b_Phy_Body0}
+Index 39: Group ID: 6, Joint: R_HairE_b_Phy, Parent: {38: R_HairE_a_Phy_Body0}, 
+Index 40: Group ID: 23, Joint: L_DrsHairA_a_Phy, Child: {41: L_DrsHairA_b_Phy_Body0}
+Index 41: Group ID: 23, Joint: L_DrsHairA_b_Phy, Parent: {40: L_DrsHairA_a_Phy_Body0}, Child: {42: L_DrsHairA_c_Phy_Body0}
+Index 42: Group ID: 23, Joint: L_DrsHairA_c_Phy, Parent: {41: L_DrsHairA_b_Phy_Body0}, Child: {43: L_DrsHairA_d_Phy_Body0}
+Index 43: Group ID: 23, Joint: L_DrsHairA_d_Phy, Parent: {42: L_DrsHairA_c_Phy_Body0}, 
+Index 44: Group ID: 21, Joint: L_DrsHairD_a_Phy, Child: {45: L_DrsHairD_b_Phy_Body0}
+Index 45: Group ID: 21, Joint: L_DrsHairD_b_Phy, Parent: {44: L_DrsHairD_a_Phy_Body0}, Child: {46: L_DrsHairD_c_Phy_Body0}
+Index 46: Group ID: 21, Joint: L_DrsHairD_c_Phy, Parent: {45: L_DrsHairD_b_Phy_Body0}, Child: {47: L_DrsHairD_d_Phy_Body0}
+Index 47: Group ID: 21, Joint: L_DrsHairD_d_Phy, Parent: {46: L_DrsHairD_c_Phy_Body0}, Child: {48: L_DrsHairD_e_Phy_Body0}
+Index 48: Group ID: 21, Joint: L_DrsHairD_e_Phy, Parent: {47: L_DrsHairD_d_Phy_Body0}, Child: {49: L_DrsHairD_f_Phy_Body0}
+Index 49: Group ID: 21, Joint: L_DrsHairD_f_Phy, Parent: {48: L_DrsHairD_e_Phy_Body0}, 
+Index 50: Group ID: 24, Joint: R_DrsHairA_a_Phy, Child: {51: R_DrsHairA_b_Phy_Body0}
+Index 51: Group ID: 24, Joint: R_DrsHairA_b_Phy, Parent: {50: R_DrsHairA_a_Phy_Body0}, Child: {52: R_DrsHairA_c_Phy_Body0}
+Index 52: Group ID: 24, Joint: R_DrsHairA_c_Phy, Parent: {51: R_DrsHairA_b_Phy_Body0}, Child: {53: R_DrsHairA_d_Phy_Body0}
+Index 53: Group ID: 24, Joint: R_DrsHairA_d_Phy, Parent: {52: R_DrsHairA_c_Phy_Body0}, Child: {54: R_DrsHairA_e_Phy_Body0}
+Index 54: Group ID: 24, Joint: R_DrsHairA_e_Phy, Parent: {53: R_DrsHairA_d_Phy_Body0}, 
+Index 55: Group ID: 24, Joint: R_DrsHairB_a_Phy, Child: {56: R_DrsHairB_b_Phy_Body0}
+Index 56: Group ID: 24, Joint: R_DrsHairB_b_Phy, Parent: {55: R_DrsHairB_a_Phy_Body0}, Child: {57: R_DrsHairB_c_Phy_Body0}
+Index 57: Group ID: 24, Joint: R_DrsHairB_c_Phy, Parent: {56: R_DrsHairB_b_Phy_Body0}, Child: {58: R_DrsHairB_d_Phy_Body0}
+Index 58: Group ID: 24, Joint: R_DrsHairB_d_Phy, Parent: {57: R_DrsHairB_c_Phy_Body0}, Child: {59: R_DrsHairB_e_Phy_Body0}
+Index 59: Group ID: 24, Joint: R_DrsHairB_e_Phy, Parent: {58: R_DrsHairB_d_Phy_Body0}, 
+Index 60: Group ID: 24, Joint: R_DrsHairC_a_Phy, Child: {61: R_DrsHairC_b_Phy_Body0}
+Index 61: Group ID: 24, Joint: R_DrsHairC_b_Phy, Parent: {60: R_DrsHairC_a_Phy_Body0}, Child: {62: R_DrsHairC_c_Phy_Body0}
+Index 62: Group ID: 24, Joint: R_DrsHairC_c_Phy, Parent: {61: R_DrsHairC_b_Phy_Body0}, Child: {63: R_DrsHairC_d_Phy_Body0}
+Index 63: Group ID: 24, Joint: R_DrsHairC_d_Phy, Parent: {62: R_DrsHairC_c_Phy_Body0}, Child: {64: R_DrsHairC_e_Phy_Body0}
+Index 64: Group ID: 24, Joint: R_DrsHairC_e_Phy, Parent: {63: R_DrsHairC_d_Phy_Body0}, 
+Index 65: Group ID: 22, Joint: R_DrsHairD_a_Phy, Child: {66: R_DrsHairD_b_Phy_Body0}
+Index 66: Group ID: 22, Joint: R_DrsHairD_b_Phy, Parent: {65: R_DrsHairD_a_Phy_Body0}, Child: {67: R_DrsHairD_c_Phy_Body0}
+Index 67: Group ID: 22, Joint: R_DrsHairD_c_Phy, Parent: {66: R_DrsHairD_b_Phy_Body0}, Child: {68: R_DrsHairD_d_Phy_Body0}
+Index 68: Group ID: 22, Joint: R_DrsHairD_d_Phy, Parent: {67: R_DrsHairD_c_Phy_Body0}, Child: {69: R_DrsHairD_e_Phy_Body0}
+Index 69: Group ID: 22, Joint: R_DrsHairD_e_Phy, Parent: {68: R_DrsHairD_d_Phy_Body0}, Child: {70: R_DrsHairD_f_Phy_Body0}
+Index 70: Group ID: 22, Joint: R_DrsHairD_f_Phy, Parent: {69: R_DrsHairD_e_Phy_Body0}, 
+Index 111: Group ID: 3, Joint: C_SxyBackHair_a_Phy, Child: {112: C_SxyBackHair_b_Phy_Body0}
+Index 112: Group ID: 3, Joint: C_SxyBackHair_b_Phy, Parent: {111: C_SxyBackHair_a_Phy_Body0}, Child: {113: C_SxyBackHair_c_Phy_Body0}
+Index 113: Group ID: 3, Joint: C_SxyBackHair_c_Phy, Parent: {112: C_SxyBackHair_b_Phy_Body0}, Child: {114: C_SxyBackHair_d_Phy_Body0}
+Index 114: Group ID: 3, Joint: C_SxyBackHair_d_Phy, Parent: {113: C_SxyBackHair_c_Phy_Body0}, Child: {115: C_SxyBackHair_e_Phy_Body0}
+Index 115: Group ID: 3, Joint: C_SxyBackHair_e_Phy, Parent: {114: C_SxyBackHair_d_Phy_Body0}, Child: {116: C_SxyBackHair_f_Phy_Body0}
+Index 116: Group ID: 3, Joint: C_SxyBackHair_f_Phy, Parent: {115: C_SxyBackHair_e_Phy_Body0}, Child: {117: C_SxyBackHair_g_Phy_Body0}
+Index 117: Group ID: 3, Joint: C_SxyBackHair_g_Phy, Parent: {116: C_SxyBackHair_f_Phy_Body0}, Child: {118: C_SxyBackHair_h_Phy_Body0}
+Index 118: Group ID: 3, Joint: C_SxyBackHair_h_Phy, Parent: {117: C_SxyBackHair_g_Phy_Body0}, Child: {119: C_SxyBackHair_i_Phy_Body0}
+Index 119: Group ID: 3, Joint: C_SxyBackHair_i_Phy, Parent: {118: C_SxyBackHair_h_Phy_Body0}, Child: {120: C_SxyBackHair_j_Phy_Body0}
+Index 120: Group ID: 3, Joint: C_SxyBackHair_j_Phy, Parent: {119: C_SxyBackHair_i_Phy_Body0}, 
+Index 121: Group ID: 3, Joint: L_SxyBackHair_a_Phy, Child: {122: L_SxyBackHair_b_Phy_Body0}
+Index 122: Group ID: 3, Joint: L_SxyBackHair_b_Phy, Parent: {121: L_SxyBackHair_a_Phy_Body0}, Child: {123: L_SxyBackHair_c_Phy_Body0}
+Index 123: Group ID: 3, Joint: L_SxyBackHair_c_Phy, Parent: {122: L_SxyBackHair_b_Phy_Body0}, Child: {124: L_SxyBackHair_d_Phy_Body0}
+Index 124: Group ID: 3, Joint: L_SxyBackHair_d_Phy, Parent: {123: L_SxyBackHair_c_Phy_Body0}, Child: {125: L_SxyBackHair_e_Phy_Body0}
+Index 125: Group ID: 3, Joint: L_SxyBackHair_e_Phy, Parent: {124: L_SxyBackHair_d_Phy_Body0}, Child: {126: L_SxyBackHair_f_Phy_Body0}
+Index 126: Group ID: 3, Joint: L_SxyBackHair_f_Phy, Parent: {125: L_SxyBackHair_e_Phy_Body0}, Child: {127: L_SxyBackHair_g_Phy_Body0}
+Index 127: Group ID: 3, Joint: L_SxyBackHair_g_Phy, Parent: {126: L_SxyBackHair_f_Phy_Body0}, Child: {128: L_SxyBackHair_h_Phy_Body0}
+Index 128: Group ID: 3, Joint: L_SxyBackHair_h_Phy, Parent: {127: L_SxyBackHair_g_Phy_Body0}, Child: {129: L_SxyBackHair_i_Phy_Body0}
+Index 129: Group ID: 3, Joint: L_SxyBackHair_i_Phy, Parent: {128: L_SxyBackHair_h_Phy_Body0}, Child: {130: L_SxyBackHair_j_Phy_Body0}
+Index 130: Group ID: 3, Joint: L_SxyBackHair_j_Phy, Parent: {129: L_SxyBackHair_i_Phy_Body0}, 
+Index 131: Group ID: 3, Joint: R_SxyBackHair_a_Phy, Child: {132: R_SxyBackHair_b_Phy_Body0}
+Index 132: Group ID: 3, Joint: R_SxyBackHair_b_Phy, Parent: {131: R_SxyBackHair_a_Phy_Body0}, Child: {133: R_SxyBackHair_c_Phy_Body0}
+Index 133: Group ID: 3, Joint: R_SxyBackHair_c_Phy, Parent: {132: R_SxyBackHair_b_Phy_Body0}, Child: {134: R_SxyBackHair_d_Phy_Body0}
+Index 134: Group ID: 3, Joint: R_SxyBackHair_d_Phy, Parent: {133: R_SxyBackHair_c_Phy_Body0}, Child: {135: R_SxyBackHair_e_Phy_Body0}
+Index 135: Group ID: 3, Joint: R_SxyBackHair_e_Phy, Parent: {134: R_SxyBackHair_d_Phy_Body0}, Child: {136: R_SxyBackHair_f_Phy_Body0}
+Index 136: Group ID: 3, Joint: R_SxyBackHair_f_Phy, Parent: {135: R_SxyBackHair_e_Phy_Body0}, Child: {137: R_SxyBackHair_g_Phy_Body0}
+Index 137: Group ID: 3, Joint: R_SxyBackHair_g_Phy, Parent: {136: R_SxyBackHair_f_Phy_Body0}, Child: {138: R_SxyBackHair_h_Phy_Body0}
+Index 138: Group ID: 3, Joint: R_SxyBackHair_h_Phy, Parent: {137: R_SxyBackHair_g_Phy_Body0}, Child: {139: R_SxyBackHair_i_Phy_Body0}
+Index 139: Group ID: 3, Joint: R_SxyBackHair_i_Phy, Parent: {138: R_SxyBackHair_h_Phy_Body0}, Child: {140: R_SxyBackHair_j_Phy_Body0}
+Index 140: Group ID: 3, Joint: R_SxyBackHair_j_Phy, Parent: {139: R_SxyBackHair_i_Phy_Body0}, 
+Index 239: Group ID: 7, Joint: R_SxyHairRibbonA_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {240: R_SxyHairRibbonA_b_Phy_Body0}
+Index 240: Group ID: 7, Joint: R_SxyHairRibbonA_b_Phy, Parent: {239: R_SxyHairRibbonA_a_Phy_Body0}, 
+Index 241: Group ID: 7, Joint: L_SxyHairRibbonA_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {242: L_SxyHairRibbonA_b_Phy_Body0}
+Index 242: Group ID: 7, Joint: L_SxyHairRibbonA_b_Phy, Parent: {241: L_SxyHairRibbonA_a_Phy_Body0}, 
+Index 243: Group ID: 7, Joint: L_SxyHairRibbonB_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {244: L_SxyHairRibbonB_b_Phy_Body0}
+Index 244: Group ID: 7, Joint: L_SxyHairRibbonB_b_Phy, Parent: {243: L_SxyHairRibbonB_a_Phy_Body0}, 
+Index 245: Group ID: 7, Joint: R_SxyHairRibbonB_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {246: R_SxyHairRibbonB_b_Phy_Body0}
+Index 246: Group ID: 7, Joint: R_SxyHairRibbonB_b_Phy, Parent: {245: R_SxyHairRibbonB_a_Phy_Body0}, 
+Hair Nodes: 75
+Printing out values for BNM index 4, BNM type m_Links:
+Index 1: Parent: {34: C_HairA_a_Phy}, Child: {35: C_HairA_b_Phy}
+Index 2: Parent: {36: L_HairE_a_Phy}, Child: {37: L_HairE_b_Phy}
+Index 3: Parent: {38: R_HairE_a_Phy}, Child: {39: R_HairE_b_Phy}
+Index 4: Parent: {40: L_DrsHairA_a_Phy}, Child: {41: L_DrsHairA_b_Phy}
+Index 5: Parent: {41: L_DrsHairA_b_Phy}, Child: {42: L_DrsHairA_c_Phy}
+Index 6: Parent: {42: L_DrsHairA_c_Phy}, Child: {43: L_DrsHairA_d_Phy}
+Index 7: Parent: {44: L_DrsHairD_a_Phy}, Child: {45: L_DrsHairD_b_Phy}
+Index 8: Parent: {45: L_DrsHairD_b_Phy}, Child: {46: L_DrsHairD_c_Phy}
+Index 9: Parent: {46: L_DrsHairD_c_Phy}, Child: {47: L_DrsHairD_d_Phy}
+Index 10: Parent: {47: L_DrsHairD_d_Phy}, Child: {48: L_DrsHairD_e_Phy}
+Index 11: Parent: {48: L_DrsHairD_e_Phy}, Child: {49: L_DrsHairD_f_Phy}
+Index 12: Parent: {50: R_DrsHairA_a_Phy}, Child: {51: R_DrsHairA_b_Phy}
+Index 13: Parent: {51: R_DrsHairA_b_Phy}, Child: {52: R_DrsHairA_c_Phy}
+Index 14: Parent: {52: R_DrsHairA_c_Phy}, Child: {53: R_DrsHairA_d_Phy}
+Index 15: Parent: {53: R_DrsHairA_d_Phy}, Child: {54: R_DrsHairA_e_Phy}
+Index 16: Parent: {55: R_DrsHairB_a_Phy}, Child: {56: R_DrsHairB_b_Phy}
+Index 17: Parent: {56: R_DrsHairB_b_Phy}, Child: {57: R_DrsHairB_c_Phy}
+Index 18: Parent: {56: R_DrsHairB_b_Phy}, Child: {51: R_DrsHairA_b_Phy}
+Index 19: Parent: {57: R_DrsHairB_c_Phy}, Child: {58: R_DrsHairB_d_Phy}
+Index 20: Parent: {57: R_DrsHairB_c_Phy}, Child: {52: R_DrsHairA_c_Phy}
+Index 21: Parent: {58: R_DrsHairB_d_Phy}, Child: {59: R_DrsHairB_e_Phy}
+Index 22: Parent: {58: R_DrsHairB_d_Phy}, Child: {53: R_DrsHairA_d_Phy}
+Index 23: Parent: {60: R_DrsHairC_a_Phy}, Child: {61: R_DrsHairC_b_Phy}
+Index 24: Parent: {61: R_DrsHairC_b_Phy}, Child: {62: R_DrsHairC_c_Phy}
+Index 25: Parent: {61: R_DrsHairC_b_Phy}, Child: {56: R_DrsHairB_b_Phy}
+Index 26: Parent: {62: R_DrsHairC_c_Phy}, Child: {63: R_DrsHairC_d_Phy}
+Index 27: Parent: {62: R_DrsHairC_c_Phy}, Child: {57: R_DrsHairB_c_Phy}
+Index 28: Parent: {63: R_DrsHairC_d_Phy}, Child: {64: R_DrsHairC_e_Phy}
+Index 29: Parent: {63: R_DrsHairC_d_Phy}, Child: {58: R_DrsHairB_d_Phy}
+Index 30: Parent: {65: R_DrsHairD_a_Phy}, Child: {66: R_DrsHairD_b_Phy}
+Index 31: Parent: {66: R_DrsHairD_b_Phy}, Child: {67: R_DrsHairD_c_Phy}
+Index 32: Parent: {67: R_DrsHairD_c_Phy}, Child: {68: R_DrsHairD_d_Phy}
+Index 33: Parent: {68: R_DrsHairD_d_Phy}, Child: {69: R_DrsHairD_e_Phy}
+Index 34: Parent: {69: R_DrsHairD_e_Phy}, Child: {70: R_DrsHairD_f_Phy}
+Index 41: Parent: {111: C_SxyBackHair_a_Phy}, Child: {112: C_SxyBackHair_b_Phy}
+Index 42: Parent: {112: C_SxyBackHair_b_Phy}, Child: {113: C_SxyBackHair_c_Phy}
+Index 43: Parent: {113: C_SxyBackHair_c_Phy}, Child: {114: C_SxyBackHair_d_Phy}
+Index 44: Parent: {114: C_SxyBackHair_d_Phy}, Child: {115: C_SxyBackHair_e_Phy}
+Index 45: Parent: {115: C_SxyBackHair_e_Phy}, Child: {116: C_SxyBackHair_f_Phy}
+Index 46: Parent: {116: C_SxyBackHair_f_Phy}, Child: {117: C_SxyBackHair_g_Phy}
+Index 47: Parent: {117: C_SxyBackHair_g_Phy}, Child: {118: C_SxyBackHair_h_Phy}
+Index 48: Parent: {118: C_SxyBackHair_h_Phy}, Child: {119: C_SxyBackHair_i_Phy}
+Index 49: Parent: {119: C_SxyBackHair_i_Phy}, Child: {120: C_SxyBackHair_j_Phy}
+Index 50: Parent: {121: L_SxyBackHair_a_Phy}, Child: {122: L_SxyBackHair_b_Phy}
+Index 51: Parent: {122: L_SxyBackHair_b_Phy}, Child: {123: L_SxyBackHair_c_Phy}
+Index 52: Parent: {123: L_SxyBackHair_c_Phy}, Child: {124: L_SxyBackHair_d_Phy}
+Index 53: Parent: {124: L_SxyBackHair_d_Phy}, Child: {125: L_SxyBackHair_e_Phy}
+Index 54: Parent: {125: L_SxyBackHair_e_Phy}, Child: {126: L_SxyBackHair_f_Phy}
+Index 55: Parent: {126: L_SxyBackHair_f_Phy}, Child: {127: L_SxyBackHair_g_Phy}
+Index 56: Parent: {127: L_SxyBackHair_g_Phy}, Child: {128: L_SxyBackHair_h_Phy}
+Index 57: Parent: {128: L_SxyBackHair_h_Phy}, Child: {129: L_SxyBackHair_i_Phy}
+Index 58: Parent: {129: L_SxyBackHair_i_Phy}, Child: {130: L_SxyBackHair_j_Phy}
+Index 59: Parent: {131: R_SxyBackHair_a_Phy}, Child: {132: R_SxyBackHair_b_Phy}
+Index 60: Parent: {132: R_SxyBackHair_b_Phy}, Child: {133: R_SxyBackHair_c_Phy}
+Index 61: Parent: {133: R_SxyBackHair_c_Phy}, Child: {134: R_SxyBackHair_d_Phy}
+Index 62: Parent: {134: R_SxyBackHair_d_Phy}, Child: {135: R_SxyBackHair_e_Phy}
+Index 63: Parent: {135: R_SxyBackHair_e_Phy}, Child: {136: R_SxyBackHair_f_Phy}
+Index 64: Parent: {136: R_SxyBackHair_f_Phy}, Child: {137: R_SxyBackHair_g_Phy}
+Index 65: Parent: {137: R_SxyBackHair_g_Phy}, Child: {138: R_SxyBackHair_h_Phy}
+Index 66: Parent: {138: R_SxyBackHair_h_Phy}, Child: {139: R_SxyBackHair_i_Phy}
+Index 67: Parent: {139: R_SxyBackHair_i_Phy}, Child: {140: R_SxyBackHair_j_Phy}
+Index 215: Parent: {113: C_SxyBackHair_c_Phy}, Child: {123: L_SxyBackHair_c_Phy}
+Index 216: Parent: {113: C_SxyBackHair_c_Phy}, Child: {133: R_SxyBackHair_c_Phy}
+Index 217: Parent: {112: C_SxyBackHair_b_Phy}, Child: {132: R_SxyBackHair_b_Phy}
+Index 218: Parent: {112: C_SxyBackHair_b_Phy}, Child: {122: L_SxyBackHair_b_Phy}
+Index 219: Parent: {116: C_SxyBackHair_f_Phy}, Child: {136: R_SxyBackHair_f_Phy}
+Index 220: Parent: {116: C_SxyBackHair_f_Phy}, Child: {126: L_SxyBackHair_f_Phy}
+Index 221: Parent: {117: C_SxyBackHair_g_Phy}, Child: {137: R_SxyBackHair_g_Phy}
+Index 222: Parent: {117: C_SxyBackHair_g_Phy}, Child: {127: L_SxyBackHair_g_Phy}
+Index 223: Parent: {138: R_SxyBackHair_h_Phy}, Child: {118: C_SxyBackHair_h_Phy}
+Index 224: Parent: {118: C_SxyBackHair_h_Phy}, Child: {128: L_SxyBackHair_h_Phy}
+Index 225: Parent: {138: R_SxyBackHair_h_Phy}, Child: {128: L_SxyBackHair_h_Phy}
+Index 226: Parent: {137: R_SxyBackHair_g_Phy}, Child: {127: L_SxyBackHair_g_Phy}
+Index 227: Parent: {136: R_SxyBackHair_f_Phy}, Child: {126: L_SxyBackHair_f_Phy}
+Index 235: Parent: {239: R_SxyHairRibbonA_a_Phy}, Child: {240: R_SxyHairRibbonA_b_Phy}
+Index 236: Parent: {241: L_SxyHairRibbonA_a_Phy}, Child: {242: L_SxyHairRibbonA_b_Phy}
+Index 237: Parent: {243: L_SxyHairRibbonB_a_Phy}, Child: {244: L_SxyHairRibbonB_b_Phy}
+Index 238: Parent: {245: R_SxyHairRibbonB_a_Phy}, Child: {246: R_SxyHairRibbonB_b_Phy}
+Hair Nodes: 78
+Printing out values for BNM index 5, BNM type m_ShapeMatchings:
+Hair Nodes: 0

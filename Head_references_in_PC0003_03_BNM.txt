@@ -1,0 +1,25 @@
+Printing out values for BNM index 1, BNM type m_SceneManager:
+Head Nodes: 0
+Printing out values for BNM index 2, BNM type m_Solvers:
+Head Nodes: 0
+Printing out values for BNM index 3, BNM type m_Bodies:
+Index 26: Group ID: 2, Joint: C_Neck_a, Parent: {14: C_Spine_d_Body0}, Child: {28: C_Head_a_Body0}
+Index 28: Group ID: 2, Joint: C_Head_a, Parent: {26: C_Neck_a_Body0}, Child: {228: L_SxyEarring_a_Phy_Body0}
+Index 29: Group ID: 2, Joint: C_Head_a, Child: {30: C_Head_a_Body2}
+Index 30: Group ID: 2, Joint: C_Head_a, 
+Index 31: Group ID: 9, Joint: C_Head_a, 
+Index 32: Group ID: 5, Joint: C_Head_a, 
+Index 33: Group ID: 5, Joint: C_Head_a, 
+Index 228: Group ID: 16, Joint: L_SxyEarring_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {229: L_SxyEarring_b_Phy_Body0}
+Index 230: Group ID: 16, Joint: R_SxyEarring_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {231: R_SxyEarring_b_Phy_Body0}
+Index 239: Group ID: 7, Joint: R_SxyHairRibbonA_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {240: R_SxyHairRibbonA_b_Phy_Body0}
+Index 241: Group ID: 7, Joint: L_SxyHairRibbonA_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {242: L_SxyHairRibbonA_b_Phy_Body0}
+Index 243: Group ID: 7, Joint: L_SxyHairRibbonB_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {244: L_SxyHairRibbonB_b_Phy_Body0}
+Index 245: Group ID: 7, Joint: R_SxyHairRibbonB_a_Phy, Parent: {28: C_Head_a_Body0}, Child: {246: R_SxyHairRibbonB_b_Phy_Body0}
+Head Nodes: 13
+Printing out values for BNM index 4, BNM type m_Links:
+Index 253: Parent: {32: C_Head_a}, Child: {229: L_SxyEarring_b_Phy}
+Index 254: Parent: {33: C_Head_a}, Child: {231: R_SxyEarring_b_Phy}
+Head Nodes: 2
+Printing out values for BNM index 5, BNM type m_ShapeMatchings:
+Head Nodes: 0

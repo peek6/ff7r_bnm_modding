@@ -1,0 +1,484 @@
+Printing out values for BNM index 1, BNM type m_SceneManager:
+Skirt Nodes: 0
+Printing out values for BNM index 2, BNM type m_Solvers:
+Index 1: Group ID: 1, Group: Skirt_Leg_Col, 
+Index 6: Group ID: 6, Group: Skirt, 
+Index 10: Group ID: 10, Group: Skirt_Col, 
+Index 14: Group ID: 14, Group: Skirt_F_Col, 
+Index 17: Group ID: 17, Group: Skirt_Plane, 
+Index 20: Group ID: 20, Group: SkirtB_Col, 
+Index 21: Group ID: 21, Group: Skirt_Back_L_Col, 
+Index 22: Group ID: 22, Group: Skirt_Front_L_Col, 
+Index 23: Group ID: 23, Group: Skirt_Back_R_Col, 
+Index 24: Group ID: 24, Group: Skirt_Front_R_Col, 
+Index 25: Group ID: 25, Group: Skirt_Side_Col, 
+Index 28: Group ID: 28, Group: SkirtPlane_CF_Col, 
+Index 29: Group ID: 29, Group: LowerSkirt, 
+Skirt Nodes: 13
+Printing out values for BNM index 3, BNM type m_Bodies:
+Index 13: Group ID: 6, Joint: R_SkirtB_a_Phy, Child: {14: R_SkirtB_b_Phy_Body0}
+Index 14: Group ID: 6, Joint: R_SkirtB_b_Phy, Parent: {13: R_SkirtB_a_Phy_Body0}, Child: {16: R_SkirtB_c_Phy_Body0}
+Index 15: Group ID: 8, Joint: R_SkirtB_b_Phy, Child: {17: R_SkirtB_c_Phy_Body1}
+Index 16: Group ID: 6, Joint: R_SkirtB_c_Phy, Parent: {14: R_SkirtB_b_Phy_Body0}, Child: {18: R_SkirtB_d_Phy_Body0}
+Index 17: Group ID: 8, Joint: R_SkirtB_c_Phy, 
+Index 18: Group ID: 6, Joint: R_SkirtB_d_Phy, Parent: {16: R_SkirtB_c_Phy_Body0}, Child: {19: R_SkirtB_e_Phy_Body0}
+Index 19: Group ID: 6, Joint: R_SkirtB_e_Phy, Parent: {18: R_SkirtB_d_Phy_Body0}, Child: {20: R_SkirtB_f_Phy_Body0}
+Index 20: Group ID: 29, Joint: R_SkirtB_f_Phy, Parent: {19: R_SkirtB_e_Phy_Body0}, Child: {21: R_SkirtB_g_Phy_Body0}
+Index 21: Group ID: 29, Joint: R_SkirtB_g_Phy, Parent: {20: R_SkirtB_f_Phy_Body0}, Child: {22: R_SkirtB_h_Phy_Body0}
+Index 22: Group ID: 29, Joint: R_SkirtB_h_Phy, Parent: {21: R_SkirtB_g_Phy_Body0}, Child: {23: R_SkirtB_i_Phy_Body0}
+Index 23: Group ID: 29, Joint: R_SkirtB_i_Phy, Parent: {22: R_SkirtB_h_Phy_Body0}, Child: {24: R_SkirtB_j_Phy_Body0}
+Index 24: Group ID: 29, Joint: R_SkirtB_j_Phy, Parent: {23: R_SkirtB_i_Phy_Body0}, 
+Index 25: Group ID: 6, Joint: C_SkirtB_a_Phy, Child: {26: C_SkirtB_b_Phy_Body0}
+Index 26: Group ID: 6, Joint: C_SkirtB_b_Phy, Parent: {25: C_SkirtB_a_Phy_Body0}, Child: {27: C_SkirtB_c_Phy_Body0}
+Index 27: Group ID: 6, Joint: C_SkirtB_c_Phy, Parent: {26: C_SkirtB_b_Phy_Body0}, Child: {28: C_SkirtB_d_Phy_Body0}
+Index 28: Group ID: 6, Joint: C_SkirtB_d_Phy, Parent: {27: C_SkirtB_c_Phy_Body0}, Child: {29: C_SkirtB_e_Phy_Body0}
+Index 29: Group ID: 6, Joint: C_SkirtB_e_Phy, Parent: {28: C_SkirtB_d_Phy_Body0}, Child: {30: C_SkirtB_f_Phy_Body0}
+Index 30: Group ID: 29, Joint: C_SkirtB_f_Phy, Parent: {29: C_SkirtB_e_Phy_Body0}, Child: {31: C_SkirtB_g_Phy_Body0}
+Index 31: Group ID: 29, Joint: C_SkirtB_g_Phy, Parent: {30: C_SkirtB_f_Phy_Body0}, Child: {32: C_SkirtB_h_Phy_Body0}
+Index 32: Group ID: 29, Joint: C_SkirtB_h_Phy, Parent: {31: C_SkirtB_g_Phy_Body0}, Child: {33: C_SkirtB_i_Phy_Body0}
+Index 33: Group ID: 29, Joint: C_SkirtB_i_Phy, Parent: {32: C_SkirtB_h_Phy_Body0}, Child: {34: C_SkirtB_j_Phy_Body0}
+Index 34: Group ID: 29, Joint: C_SkirtB_j_Phy, Parent: {33: C_SkirtB_i_Phy_Body0}, 
+Index 35: Group ID: 6, Joint: R_SkirtA_a_Phy, Child: {36: R_SkirtA_b_Phy_Body0}
+Index 36: Group ID: 6, Joint: R_SkirtA_b_Phy, Parent: {35: R_SkirtA_a_Phy_Body0}, Child: {37: R_SkirtA_c_Phy_Body0}
+Index 37: Group ID: 6, Joint: R_SkirtA_c_Phy, Parent: {36: R_SkirtA_b_Phy_Body0}, Child: {38: R_SkirtA_d_Phy_Body0}
+Index 38: Group ID: 6, Joint: R_SkirtA_d_Phy, Parent: {37: R_SkirtA_c_Phy_Body0}, Child: {39: R_SkirtA_e_Phy_Body0}
+Index 39: Group ID: 29, Joint: R_SkirtA_e_Phy, Parent: {38: R_SkirtA_d_Phy_Body0}, Child: {40: R_SkirtA_f_Phy_Body0}
+Index 40: Group ID: 29, Joint: R_SkirtA_f_Phy, Parent: {39: R_SkirtA_e_Phy_Body0}, Child: {41: R_SkirtA_g_Phy_Body0}
+Index 41: Group ID: 29, Joint: R_SkirtA_g_Phy, Parent: {40: R_SkirtA_f_Phy_Body0}, Child: {42: R_SkirtA_h_Phy_Body0}
+Index 42: Group ID: 29, Joint: R_SkirtA_h_Phy, Parent: {41: R_SkirtA_g_Phy_Body0}, Child: {43: R_SkirtA_i_Phy_Body0}
+Index 43: Group ID: 29, Joint: R_SkirtA_i_Phy, Parent: {42: R_SkirtA_h_Phy_Body0}, Child: {44: R_SkirtA_j_Phy_Body0}
+Index 44: Group ID: 29, Joint: R_SkirtA_j_Phy, Parent: {43: R_SkirtA_i_Phy_Body0}, 
+Index 45: Group ID: 6, Joint: L_SkirtA_a_Phy, Child: {46: L_SkirtA_b_Phy_Body0}
+Index 46: Group ID: 6, Joint: L_SkirtA_b_Phy, Parent: {45: L_SkirtA_a_Phy_Body0}, Child: {47: L_SkirtA_c_Phy_Body0}
+Index 47: Group ID: 6, Joint: L_SkirtA_c_Phy, Parent: {46: L_SkirtA_b_Phy_Body0}, Child: {48: L_SkirtA_d_Phy_Body0}
+Index 48: Group ID: 6, Joint: L_SkirtA_d_Phy, Parent: {47: L_SkirtA_c_Phy_Body0}, Child: {49: L_SkirtA_e_Phy_Body0}
+Index 49: Group ID: 29, Joint: L_SkirtA_e_Phy, Parent: {48: L_SkirtA_d_Phy_Body0}, Child: {50: L_SkirtA_f_Phy_Body0}
+Index 50: Group ID: 29, Joint: L_SkirtA_f_Phy, Parent: {49: L_SkirtA_e_Phy_Body0}, Child: {51: L_SkirtA_g_Phy_Body0}
+Index 51: Group ID: 29, Joint: L_SkirtA_g_Phy, Parent: {50: L_SkirtA_f_Phy_Body0}, Child: {52: L_SkirtA_h_Phy_Body0}
+Index 52: Group ID: 29, Joint: L_SkirtA_h_Phy, Parent: {51: L_SkirtA_g_Phy_Body0}, Child: {53: L_SkirtA_i_Phy_Body0}
+Index 53: Group ID: 29, Joint: L_SkirtA_i_Phy, Parent: {52: L_SkirtA_h_Phy_Body0}, Child: {54: L_SkirtA_j_Phy_Body0}
+Index 54: Group ID: 29, Joint: L_SkirtA_j_Phy, Parent: {53: L_SkirtA_i_Phy_Body0}, 
+Index 132: Group ID: 6, Joint: R_SkirtC_a_Phy, Child: {133: R_SkirtC_b_Phy_Body0}
+Index 133: Group ID: 6, Joint: R_SkirtC_b_Phy, Parent: {132: R_SkirtC_a_Phy_Body0}, Child: {134: R_SkirtC_c_Phy_Body0}
+Index 134: Group ID: 6, Joint: R_SkirtC_c_Phy, Parent: {133: R_SkirtC_b_Phy_Body0}, Child: {135: R_SkirtC_d_Phy_Body0}
+Index 135: Group ID: 6, Joint: R_SkirtC_d_Phy, Parent: {134: R_SkirtC_c_Phy_Body0}, Child: {136: R_SkirtC_e_Phy_Body0}
+Index 136: Group ID: 6, Joint: R_SkirtC_e_Phy, Parent: {135: R_SkirtC_d_Phy_Body0}, Child: {137: R_SkirtC_f_Phy_Body0}
+Index 137: Group ID: 29, Joint: R_SkirtC_f_Phy, Parent: {136: R_SkirtC_e_Phy_Body0}, Child: {138: R_SkirtC_g_Phy_Body0}
+Index 138: Group ID: 29, Joint: R_SkirtC_g_Phy, Parent: {137: R_SkirtC_f_Phy_Body0}, Child: {139: R_SkirtC_h_Phy_Body0}
+Index 139: Group ID: 29, Joint: R_SkirtC_h_Phy, Parent: {138: R_SkirtC_g_Phy_Body0}, Child: {140: R_SkirtC_i_Phy_Body0}
+Index 140: Group ID: 29, Joint: R_SkirtC_i_Phy, Parent: {139: R_SkirtC_h_Phy_Body0}, Child: {141: R_SkirtC_j_Phy_Body0}
+Index 141: Group ID: 29, Joint: R_SkirtC_j_Phy, Parent: {140: R_SkirtC_i_Phy_Body0}, 
+Index 142: Group ID: 6, Joint: L_SkirtB_a_Phy, Child: {144: L_SkirtB_b_Phy_Body0}
+Index 143: Group ID: 8, Joint: L_SkirtB_a_Phy, Child: {145: L_SkirtB_b_Phy_Body1}
+Index 144: Group ID: 6, Joint: L_SkirtB_b_Phy, Parent: {142: L_SkirtB_a_Phy_Body0}, Child: {146: L_SkirtB_c_Phy_Body0}
+Index 145: Group ID: 8, Joint: L_SkirtB_b_Phy, 
+Index 146: Group ID: 6, Joint: L_SkirtB_c_Phy, Parent: {144: L_SkirtB_b_Phy_Body0}, Child: {147: L_SkirtB_d_Phy_Body0}
+Index 147: Group ID: 6, Joint: L_SkirtB_d_Phy, Parent: {146: L_SkirtB_c_Phy_Body0}, Child: {148: L_SkirtB_e_Phy_Body0}
+Index 148: Group ID: 6, Joint: L_SkirtB_e_Phy, Parent: {147: L_SkirtB_d_Phy_Body0}, Child: {149: L_SkirtB_f_Phy_Body0}
+Index 149: Group ID: 29, Joint: L_SkirtB_f_Phy, Parent: {148: L_SkirtB_e_Phy_Body0}, Child: {150: L_SkirtB_g_Phy_Body0}
+Index 150: Group ID: 29, Joint: L_SkirtB_g_Phy, Parent: {149: L_SkirtB_f_Phy_Body0}, Child: {151: L_SkirtB_h_Phy_Body0}
+Index 151: Group ID: 29, Joint: L_SkirtB_h_Phy, Parent: {150: L_SkirtB_g_Phy_Body0}, Child: {152: L_SkirtB_i_Phy_Body0}
+Index 152: Group ID: 29, Joint: L_SkirtB_i_Phy, Parent: {151: L_SkirtB_h_Phy_Body0}, Child: {153: L_SkirtB_j_Phy_Body0}
+Index 153: Group ID: 29, Joint: L_SkirtB_j_Phy, Parent: {152: L_SkirtB_i_Phy_Body0}, 
+Index 154: Group ID: 6, Joint: L_SkirtD_a_Phy, Child: {155: L_SkirtD_b_Phy_Body0}
+Index 155: Group ID: 6, Joint: L_SkirtD_b_Phy, Parent: {154: L_SkirtD_a_Phy_Body0}, Child: {156: L_SkirtD_c_Phy_Body0}
+Index 156: Group ID: 6, Joint: L_SkirtD_c_Phy, Parent: {155: L_SkirtD_b_Phy_Body0}, Child: {157: L_SkirtD_d_Phy_Body0}
+Index 157: Group ID: 6, Joint: L_SkirtD_d_Phy, Parent: {156: L_SkirtD_c_Phy_Body0}, Child: {158: L_SkirtD_e_Phy_Body0}
+Index 158: Group ID: 6, Joint: L_SkirtD_e_Phy, Parent: {157: L_SkirtD_d_Phy_Body0}, Child: {159: L_SkirtD_f_Phy_Body0}
+Index 159: Group ID: 29, Joint: L_SkirtD_f_Phy, Parent: {158: L_SkirtD_e_Phy_Body0}, Child: {160: L_SkirtD_g_Phy_Body0}
+Index 160: Group ID: 29, Joint: L_SkirtD_g_Phy, Parent: {159: L_SkirtD_f_Phy_Body0}, Child: {161: L_SkirtD_h_Phy_Body0}
+Index 161: Group ID: 29, Joint: L_SkirtD_h_Phy, Parent: {160: L_SkirtD_g_Phy_Body0}, Child: {162: L_SkirtD_i_Phy_Body0}
+Index 162: Group ID: 29, Joint: L_SkirtD_i_Phy, Parent: {161: L_SkirtD_h_Phy_Body0}, Child: {163: L_SkirtD_j_Phy_Body0}
+Index 163: Group ID: 29, Joint: L_SkirtD_j_Phy, Parent: {162: L_SkirtD_i_Phy_Body0}, 
+Index 164: Group ID: 6, Joint: R_SkirtD_a_Phy, Child: {165: R_SkirtD_b_Phy_Body0}
+Index 165: Group ID: 6, Joint: R_SkirtD_b_Phy, Parent: {164: R_SkirtD_a_Phy_Body0}, Child: {166: R_SkirtD_c_Phy_Body0}
+Index 166: Group ID: 6, Joint: R_SkirtD_c_Phy, Parent: {165: R_SkirtD_b_Phy_Body0}, Child: {167: R_SkirtD_d_Phy_Body0}
+Index 167: Group ID: 6, Joint: R_SkirtD_d_Phy, Parent: {166: R_SkirtD_c_Phy_Body0}, Child: {168: R_SkirtD_e_Phy_Body0}
+Index 168: Group ID: 6, Joint: R_SkirtD_e_Phy, Parent: {167: R_SkirtD_d_Phy_Body0}, Child: {169: R_SkirtD_f_Phy_Body0}
+Index 169: Group ID: 29, Joint: R_SkirtD_f_Phy, Parent: {168: R_SkirtD_e_Phy_Body0}, Child: {170: R_SkirtD_g_Phy_Body0}
+Index 170: Group ID: 29, Joint: R_SkirtD_g_Phy, Parent: {169: R_SkirtD_f_Phy_Body0}, Child: {171: R_SkirtD_h_Phy_Body0}
+Index 171: Group ID: 29, Joint: R_SkirtD_h_Phy, Parent: {170: R_SkirtD_g_Phy_Body0}, Child: {172: R_SkirtD_i_Phy_Body0}
+Index 172: Group ID: 29, Joint: R_SkirtD_i_Phy, Parent: {171: R_SkirtD_h_Phy_Body0}, Child: {173: R_SkirtD_j_Phy_Body0}
+Index 173: Group ID: 29, Joint: R_SkirtD_j_Phy, Parent: {172: R_SkirtD_i_Phy_Body0}, 
+Index 174: Group ID: 6, Joint: C_SkirtA_a_Phy, Child: {175: C_SkirtA_b_Phy_Body0}
+Index 175: Group ID: 6, Joint: C_SkirtA_b_Phy, Parent: {174: C_SkirtA_a_Phy_Body0}, Child: {176: C_SkirtA_c_Phy_Body0}
+Index 176: Group ID: 6, Joint: C_SkirtA_c_Phy, Parent: {175: C_SkirtA_b_Phy_Body0}, Child: {177: C_SkirtA_d_Phy_Body0}
+Index 177: Group ID: 6, Joint: C_SkirtA_d_Phy, Parent: {176: C_SkirtA_c_Phy_Body0}, Child: {178: C_SkirtA_e_Phy_Body0}
+Index 178: Group ID: 29, Joint: C_SkirtA_e_Phy, Parent: {177: C_SkirtA_d_Phy_Body0}, Child: {179: C_SkirtA_f_Phy_Body0}
+Index 179: Group ID: 29, Joint: C_SkirtA_f_Phy, Parent: {178: C_SkirtA_e_Phy_Body0}, Child: {180: C_SkirtA_g_Phy_Body0}
+Index 180: Group ID: 29, Joint: C_SkirtA_g_Phy, Parent: {179: C_SkirtA_f_Phy_Body0}, Child: {181: C_SkirtA_h_Phy_Body0}
+Index 181: Group ID: 29, Joint: C_SkirtA_h_Phy, Parent: {180: C_SkirtA_g_Phy_Body0}, Child: {182: C_SkirtA_i_Phy_Body0}
+Index 182: Group ID: 29, Joint: C_SkirtA_i_Phy, Parent: {181: C_SkirtA_h_Phy_Body0}, Child: {183: C_SkirtA_j_Phy_Body0}
+Index 183: Group ID: 29, Joint: C_SkirtA_j_Phy, Parent: {182: C_SkirtA_i_Phy_Body0}, 
+Index 184: Group ID: 6, Joint: L_SkirtC_a_Phy, Child: {185: L_SkirtC_b_Phy_Body0}
+Index 185: Group ID: 6, Joint: L_SkirtC_b_Phy, Parent: {184: L_SkirtC_a_Phy_Body0}, Child: {186: L_SkirtC_c_Phy_Body0}
+Index 186: Group ID: 6, Joint: L_SkirtC_c_Phy, Parent: {185: L_SkirtC_b_Phy_Body0}, Child: {187: L_SkirtC_d_Phy_Body0}
+Index 187: Group ID: 6, Joint: L_SkirtC_d_Phy, Parent: {186: L_SkirtC_c_Phy_Body0}, Child: {188: L_SkirtC_e_Phy_Body0}
+Index 188: Group ID: 6, Joint: L_SkirtC_e_Phy, Parent: {187: L_SkirtC_d_Phy_Body0}, Child: {189: L_SkirtC_f_Phy_Body0}
+Index 189: Group ID: 29, Joint: L_SkirtC_f_Phy, Parent: {188: L_SkirtC_e_Phy_Body0}, Child: {190: L_SkirtC_g_Phy_Body0}
+Index 190: Group ID: 29, Joint: L_SkirtC_g_Phy, Parent: {189: L_SkirtC_f_Phy_Body0}, Child: {191: L_SkirtC_h_Phy_Body0}
+Index 191: Group ID: 29, Joint: L_SkirtC_h_Phy, Parent: {190: L_SkirtC_g_Phy_Body0}, Child: {192: L_SkirtC_i_Phy_Body0}
+Index 192: Group ID: 29, Joint: L_SkirtC_i_Phy, Parent: {191: L_SkirtC_h_Phy_Body0}, Child: {193: L_SkirtC_j_Phy_Body0}
+Index 193: Group ID: 29, Joint: L_SkirtC_j_Phy, Parent: {192: L_SkirtC_i_Phy_Body0}, 
+Index 326: Group ID: 30, Joint: C_SkirtA_a_Phy, Child: {327: C_SkirtA_b_Phy_Body1}
+Index 327: Group ID: 30, Joint: C_SkirtA_b_Phy, Child: {328: C_SkirtA_c_Phy_Body1}
+Index 328: Group ID: 30, Joint: C_SkirtA_c_Phy, Child: {329: C_SkirtA_d_Phy_Body1}
+Index 329: Group ID: 30, Joint: C_SkirtA_d_Phy, 
+Index 330: Group ID: 30, Joint: L_SkirtA_a_Phy, Child: {331: L_SkirtA_b_Phy_Body1}
+Index 331: Group ID: 30, Joint: L_SkirtA_b_Phy, Child: {332: L_SkirtA_c_Phy_Body1}
+Index 332: Group ID: 30, Joint: L_SkirtA_c_Phy, Child: {333: L_SkirtA_d_Phy_Body1}
+Index 333: Group ID: 30, Joint: L_SkirtA_d_Phy, 
+Index 334: Group ID: 30, Joint: R_SkirtA_a_Phy, Child: {335: R_SkirtA_b_Phy_Body1}
+Index 335: Group ID: 30, Joint: R_SkirtA_b_Phy, Child: {336: R_SkirtA_c_Phy_Body1}
+Index 336: Group ID: 30, Joint: R_SkirtA_c_Phy, Child: {337: R_SkirtA_d_Phy_Body1}
+Index 337: Group ID: 30, Joint: R_SkirtA_d_Phy, 
+Skirt Nodes: 116
+Printing out values for BNM index 4, BNM type m_Links:
+Index 1: Parent: {13: R_SkirtB_a_Phy}, Child: {14: R_SkirtB_b_Phy}
+Index 2: Parent: {14: R_SkirtB_b_Phy}, Child: {16: R_SkirtB_c_Phy}
+Index 3: Parent: {16: R_SkirtB_c_Phy}, Child: {18: R_SkirtB_d_Phy}
+Index 4: Parent: {18: R_SkirtB_d_Phy}, Child: {19: R_SkirtB_e_Phy}
+Index 5: Parent: {19: R_SkirtB_e_Phy}, Child: {20: R_SkirtB_f_Phy}
+Index 6: Parent: {20: R_SkirtB_f_Phy}, Child: {21: R_SkirtB_g_Phy}
+Index 7: Parent: {21: R_SkirtB_g_Phy}, Child: {22: R_SkirtB_h_Phy}
+Index 8: Parent: {22: R_SkirtB_h_Phy}, Child: {23: R_SkirtB_i_Phy}
+Index 9: Parent: {23: R_SkirtB_i_Phy}, Child: {24: R_SkirtB_j_Phy}
+Index 10: Parent: {25: C_SkirtB_a_Phy}, Child: {26: C_SkirtB_b_Phy}
+Index 11: Parent: {26: C_SkirtB_b_Phy}, Child: {27: C_SkirtB_c_Phy}
+Index 12: Parent: {26: C_SkirtB_b_Phy}, Child: {165: R_SkirtD_b_Phy}
+Index 13: Parent: {26: C_SkirtB_b_Phy}, Child: {155: L_SkirtD_b_Phy}
+Index 14: Parent: {27: C_SkirtB_c_Phy}, Child: {28: C_SkirtB_d_Phy}
+Index 15: Parent: {27: C_SkirtB_c_Phy}, Child: {166: R_SkirtD_c_Phy}
+Index 16: Parent: {27: C_SkirtB_c_Phy}, Child: {156: L_SkirtD_c_Phy}
+Index 17: Parent: {28: C_SkirtB_d_Phy}, Child: {29: C_SkirtB_e_Phy}
+Index 18: Parent: {28: C_SkirtB_d_Phy}, Child: {167: R_SkirtD_d_Phy}
+Index 19: Parent: {28: C_SkirtB_d_Phy}, Child: {157: L_SkirtD_d_Phy}
+Index 20: Parent: {29: C_SkirtB_e_Phy}, Child: {30: C_SkirtB_f_Phy}
+Index 21: Parent: {29: C_SkirtB_e_Phy}, Child: {168: R_SkirtD_e_Phy}
+Index 22: Parent: {29: C_SkirtB_e_Phy}, Child: {158: L_SkirtD_e_Phy}
+Index 23: Parent: {30: C_SkirtB_f_Phy}, Child: {31: C_SkirtB_g_Phy}
+Index 24: Parent: {30: C_SkirtB_f_Phy}, Child: {169: R_SkirtD_f_Phy}
+Index 25: Parent: {30: C_SkirtB_f_Phy}, Child: {159: L_SkirtD_f_Phy}
+Index 26: Parent: {31: C_SkirtB_g_Phy}, Child: {32: C_SkirtB_h_Phy}
+Index 27: Parent: {31: C_SkirtB_g_Phy}, Child: {170: R_SkirtD_g_Phy}
+Index 28: Parent: {31: C_SkirtB_g_Phy}, Child: {160: L_SkirtD_g_Phy}
+Index 29: Parent: {32: C_SkirtB_h_Phy}, Child: {33: C_SkirtB_i_Phy}
+Index 30: Parent: {32: C_SkirtB_h_Phy}, Child: {171: R_SkirtD_h_Phy}
+Index 31: Parent: {32: C_SkirtB_h_Phy}, Child: {161: L_SkirtD_h_Phy}
+Index 32: Parent: {33: C_SkirtB_i_Phy}, Child: {34: C_SkirtB_j_Phy}
+Index 33: Parent: {33: C_SkirtB_i_Phy}, Child: {172: R_SkirtD_i_Phy}
+Index 34: Parent: {33: C_SkirtB_i_Phy}, Child: {162: L_SkirtD_i_Phy}
+Index 35: Parent: {34: C_SkirtB_j_Phy}, Child: {173: R_SkirtD_j_Phy}
+Index 36: Parent: {34: C_SkirtB_j_Phy}, Child: {163: L_SkirtD_j_Phy}
+Index 37: Parent: {35: R_SkirtA_a_Phy}, Child: {36: R_SkirtA_b_Phy}
+Index 38: Parent: {36: R_SkirtA_b_Phy}, Child: {37: R_SkirtA_c_Phy}
+Index 39: Parent: {36: R_SkirtA_b_Phy}, Child: {14: R_SkirtB_b_Phy}
+Index 40: Parent: {37: R_SkirtA_c_Phy}, Child: {38: R_SkirtA_d_Phy}
+Index 41: Parent: {37: R_SkirtA_c_Phy}, Child: {16: R_SkirtB_c_Phy}
+Index 42: Parent: {38: R_SkirtA_d_Phy}, Child: {39: R_SkirtA_e_Phy}
+Index 43: Parent: {38: R_SkirtA_d_Phy}, Child: {18: R_SkirtB_d_Phy}
+Index 44: Parent: {39: R_SkirtA_e_Phy}, Child: {40: R_SkirtA_f_Phy}
+Index 45: Parent: {39: R_SkirtA_e_Phy}, Child: {19: R_SkirtB_e_Phy}
+Index 46: Parent: {40: R_SkirtA_f_Phy}, Child: {41: R_SkirtA_g_Phy}
+Index 47: Parent: {40: R_SkirtA_f_Phy}, Child: {20: R_SkirtB_f_Phy}
+Index 48: Parent: {41: R_SkirtA_g_Phy}, Child: {42: R_SkirtA_h_Phy}
+Index 49: Parent: {41: R_SkirtA_g_Phy}, Child: {21: R_SkirtB_g_Phy}
+Index 50: Parent: {42: R_SkirtA_h_Phy}, Child: {43: R_SkirtA_i_Phy}
+Index 51: Parent: {42: R_SkirtA_h_Phy}, Child: {22: R_SkirtB_h_Phy}
+Index 52: Parent: {43: R_SkirtA_i_Phy}, Child: {44: R_SkirtA_j_Phy}
+Index 53: Parent: {43: R_SkirtA_i_Phy}, Child: {23: R_SkirtB_i_Phy}
+Index 54: Parent: {44: R_SkirtA_j_Phy}, Child: {24: R_SkirtB_j_Phy}
+Index 55: Parent: {45: L_SkirtA_a_Phy}, Child: {46: L_SkirtA_b_Phy}
+Index 56: Parent: {46: L_SkirtA_b_Phy}, Child: {47: L_SkirtA_c_Phy}
+Index 57: Parent: {46: L_SkirtA_b_Phy}, Child: {144: L_SkirtB_b_Phy}
+Index 58: Parent: {47: L_SkirtA_c_Phy}, Child: {48: L_SkirtA_d_Phy}
+Index 59: Parent: {47: L_SkirtA_c_Phy}, Child: {146: L_SkirtB_c_Phy}
+Index 60: Parent: {48: L_SkirtA_d_Phy}, Child: {49: L_SkirtA_e_Phy}
+Index 61: Parent: {48: L_SkirtA_d_Phy}, Child: {147: L_SkirtB_d_Phy}
+Index 62: Parent: {49: L_SkirtA_e_Phy}, Child: {50: L_SkirtA_f_Phy}
+Index 63: Parent: {49: L_SkirtA_e_Phy}, Child: {148: L_SkirtB_e_Phy}
+Index 64: Parent: {50: L_SkirtA_f_Phy}, Child: {51: L_SkirtA_g_Phy}
+Index 65: Parent: {50: L_SkirtA_f_Phy}, Child: {149: L_SkirtB_f_Phy}
+Index 66: Parent: {51: L_SkirtA_g_Phy}, Child: {52: L_SkirtA_h_Phy}
+Index 67: Parent: {51: L_SkirtA_g_Phy}, Child: {150: L_SkirtB_g_Phy}
+Index 68: Parent: {52: L_SkirtA_h_Phy}, Child: {53: L_SkirtA_i_Phy}
+Index 69: Parent: {52: L_SkirtA_h_Phy}, Child: {151: L_SkirtB_h_Phy}
+Index 70: Parent: {53: L_SkirtA_i_Phy}, Child: {54: L_SkirtA_j_Phy}
+Index 71: Parent: {53: L_SkirtA_i_Phy}, Child: {152: L_SkirtB_i_Phy}
+Index 72: Parent: {54: L_SkirtA_j_Phy}, Child: {153: L_SkirtB_j_Phy}
+Index 161: Parent: {132: R_SkirtC_a_Phy}, Child: {133: R_SkirtC_b_Phy}
+Index 162: Parent: {133: R_SkirtC_b_Phy}, Child: {134: R_SkirtC_c_Phy}
+Index 163: Parent: {133: R_SkirtC_b_Phy}, Child: {14: R_SkirtB_b_Phy}
+Index 164: Parent: {134: R_SkirtC_c_Phy}, Child: {135: R_SkirtC_d_Phy}
+Index 165: Parent: {134: R_SkirtC_c_Phy}, Child: {16: R_SkirtB_c_Phy}
+Index 166: Parent: {135: R_SkirtC_d_Phy}, Child: {136: R_SkirtC_e_Phy}
+Index 167: Parent: {135: R_SkirtC_d_Phy}, Child: {18: R_SkirtB_d_Phy}
+Index 168: Parent: {136: R_SkirtC_e_Phy}, Child: {137: R_SkirtC_f_Phy}
+Index 169: Parent: {136: R_SkirtC_e_Phy}, Child: {19: R_SkirtB_e_Phy}
+Index 170: Parent: {137: R_SkirtC_f_Phy}, Child: {138: R_SkirtC_g_Phy}
+Index 171: Parent: {137: R_SkirtC_f_Phy}, Child: {20: R_SkirtB_f_Phy}
+Index 172: Parent: {138: R_SkirtC_g_Phy}, Child: {139: R_SkirtC_h_Phy}
+Index 173: Parent: {138: R_SkirtC_g_Phy}, Child: {21: R_SkirtB_g_Phy}
+Index 174: Parent: {139: R_SkirtC_h_Phy}, Child: {140: R_SkirtC_i_Phy}
+Index 175: Parent: {139: R_SkirtC_h_Phy}, Child: {22: R_SkirtB_h_Phy}
+Index 176: Parent: {140: R_SkirtC_i_Phy}, Child: {141: R_SkirtC_j_Phy}
+Index 177: Parent: {140: R_SkirtC_i_Phy}, Child: {23: R_SkirtB_i_Phy}
+Index 178: Parent: {141: R_SkirtC_j_Phy}, Child: {24: R_SkirtB_j_Phy}
+Index 179: Parent: {142: L_SkirtB_a_Phy}, Child: {144: L_SkirtB_b_Phy}
+Index 180: Parent: {144: L_SkirtB_b_Phy}, Child: {146: L_SkirtB_c_Phy}
+Index 181: Parent: {144: L_SkirtB_b_Phy}, Child: {185: L_SkirtC_b_Phy}
+Index 182: Parent: {146: L_SkirtB_c_Phy}, Child: {147: L_SkirtB_d_Phy}
+Index 183: Parent: {146: L_SkirtB_c_Phy}, Child: {186: L_SkirtC_c_Phy}
+Index 184: Parent: {147: L_SkirtB_d_Phy}, Child: {148: L_SkirtB_e_Phy}
+Index 185: Parent: {147: L_SkirtB_d_Phy}, Child: {187: L_SkirtC_d_Phy}
+Index 186: Parent: {148: L_SkirtB_e_Phy}, Child: {149: L_SkirtB_f_Phy}
+Index 187: Parent: {148: L_SkirtB_e_Phy}, Child: {188: L_SkirtC_e_Phy}
+Index 188: Parent: {149: L_SkirtB_f_Phy}, Child: {150: L_SkirtB_g_Phy}
+Index 189: Parent: {149: L_SkirtB_f_Phy}, Child: {189: L_SkirtC_f_Phy}
+Index 190: Parent: {150: L_SkirtB_g_Phy}, Child: {151: L_SkirtB_h_Phy}
+Index 191: Parent: {150: L_SkirtB_g_Phy}, Child: {190: L_SkirtC_g_Phy}
+Index 192: Parent: {151: L_SkirtB_h_Phy}, Child: {152: L_SkirtB_i_Phy}
+Index 193: Parent: {151: L_SkirtB_h_Phy}, Child: {191: L_SkirtC_h_Phy}
+Index 194: Parent: {152: L_SkirtB_i_Phy}, Child: {153: L_SkirtB_j_Phy}
+Index 195: Parent: {152: L_SkirtB_i_Phy}, Child: {192: L_SkirtC_i_Phy}
+Index 196: Parent: {153: L_SkirtB_j_Phy}, Child: {193: L_SkirtC_j_Phy}
+Index 197: Parent: {154: L_SkirtD_a_Phy}, Child: {155: L_SkirtD_b_Phy}
+Index 198: Parent: {155: L_SkirtD_b_Phy}, Child: {156: L_SkirtD_c_Phy}
+Index 199: Parent: {155: L_SkirtD_b_Phy}, Child: {185: L_SkirtC_b_Phy}
+Index 200: Parent: {156: L_SkirtD_c_Phy}, Child: {157: L_SkirtD_d_Phy}
+Index 201: Parent: {156: L_SkirtD_c_Phy}, Child: {186: L_SkirtC_c_Phy}
+Index 202: Parent: {157: L_SkirtD_d_Phy}, Child: {158: L_SkirtD_e_Phy}
+Index 203: Parent: {157: L_SkirtD_d_Phy}, Child: {187: L_SkirtC_d_Phy}
+Index 204: Parent: {158: L_SkirtD_e_Phy}, Child: {159: L_SkirtD_f_Phy}
+Index 205: Parent: {158: L_SkirtD_e_Phy}, Child: {188: L_SkirtC_e_Phy}
+Index 206: Parent: {159: L_SkirtD_f_Phy}, Child: {160: L_SkirtD_g_Phy}
+Index 207: Parent: {159: L_SkirtD_f_Phy}, Child: {189: L_SkirtC_f_Phy}
+Index 208: Parent: {160: L_SkirtD_g_Phy}, Child: {161: L_SkirtD_h_Phy}
+Index 209: Parent: {160: L_SkirtD_g_Phy}, Child: {190: L_SkirtC_g_Phy}
+Index 210: Parent: {161: L_SkirtD_h_Phy}, Child: {162: L_SkirtD_i_Phy}
+Index 211: Parent: {161: L_SkirtD_h_Phy}, Child: {191: L_SkirtC_h_Phy}
+Index 212: Parent: {162: L_SkirtD_i_Phy}, Child: {163: L_SkirtD_j_Phy}
+Index 213: Parent: {162: L_SkirtD_i_Phy}, Child: {192: L_SkirtC_i_Phy}
+Index 214: Parent: {163: L_SkirtD_j_Phy}, Child: {193: L_SkirtC_j_Phy}
+Index 215: Parent: {164: R_SkirtD_a_Phy}, Child: {165: R_SkirtD_b_Phy}
+Index 216: Parent: {165: R_SkirtD_b_Phy}, Child: {166: R_SkirtD_c_Phy}
+Index 217: Parent: {165: R_SkirtD_b_Phy}, Child: {133: R_SkirtC_b_Phy}
+Index 218: Parent: {166: R_SkirtD_c_Phy}, Child: {167: R_SkirtD_d_Phy}
+Index 219: Parent: {166: R_SkirtD_c_Phy}, Child: {134: R_SkirtC_c_Phy}
+Index 220: Parent: {167: R_SkirtD_d_Phy}, Child: {168: R_SkirtD_e_Phy}
+Index 221: Parent: {167: R_SkirtD_d_Phy}, Child: {135: R_SkirtC_d_Phy}
+Index 222: Parent: {168: R_SkirtD_e_Phy}, Child: {169: R_SkirtD_f_Phy}
+Index 223: Parent: {168: R_SkirtD_e_Phy}, Child: {136: R_SkirtC_e_Phy}
+Index 224: Parent: {169: R_SkirtD_f_Phy}, Child: {170: R_SkirtD_g_Phy}
+Index 225: Parent: {169: R_SkirtD_f_Phy}, Child: {137: R_SkirtC_f_Phy}
+Index 226: Parent: {170: R_SkirtD_g_Phy}, Child: {171: R_SkirtD_h_Phy}
+Index 227: Parent: {170: R_SkirtD_g_Phy}, Child: {138: R_SkirtC_g_Phy}
+Index 228: Parent: {171: R_SkirtD_h_Phy}, Child: {172: R_SkirtD_i_Phy}
+Index 229: Parent: {171: R_SkirtD_h_Phy}, Child: {139: R_SkirtC_h_Phy}
+Index 230: Parent: {172: R_SkirtD_i_Phy}, Child: {173: R_SkirtD_j_Phy}
+Index 231: Parent: {172: R_SkirtD_i_Phy}, Child: {140: R_SkirtC_i_Phy}
+Index 232: Parent: {173: R_SkirtD_j_Phy}, Child: {141: R_SkirtC_j_Phy}
+Index 233: Parent: {174: C_SkirtA_a_Phy}, Child: {175: C_SkirtA_b_Phy}
+Index 234: Parent: {175: C_SkirtA_b_Phy}, Child: {176: C_SkirtA_c_Phy}
+Index 235: Parent: {175: C_SkirtA_b_Phy}, Child: {46: L_SkirtA_b_Phy}
+Index 236: Parent: {175: C_SkirtA_b_Phy}, Child: {36: R_SkirtA_b_Phy}
+Index 237: Parent: {176: C_SkirtA_c_Phy}, Child: {177: C_SkirtA_d_Phy}
+Index 238: Parent: {176: C_SkirtA_c_Phy}, Child: {47: L_SkirtA_c_Phy}
+Index 239: Parent: {176: C_SkirtA_c_Phy}, Child: {37: R_SkirtA_c_Phy}
+Index 240: Parent: {177: C_SkirtA_d_Phy}, Child: {178: C_SkirtA_e_Phy}
+Index 241: Parent: {177: C_SkirtA_d_Phy}, Child: {48: L_SkirtA_d_Phy}
+Index 242: Parent: {177: C_SkirtA_d_Phy}, Child: {38: R_SkirtA_d_Phy}
+Index 243: Parent: {178: C_SkirtA_e_Phy}, Child: {179: C_SkirtA_f_Phy}
+Index 244: Parent: {178: C_SkirtA_e_Phy}, Child: {49: L_SkirtA_e_Phy}
+Index 245: Parent: {178: C_SkirtA_e_Phy}, Child: {39: R_SkirtA_e_Phy}
+Index 246: Parent: {179: C_SkirtA_f_Phy}, Child: {180: C_SkirtA_g_Phy}
+Index 247: Parent: {179: C_SkirtA_f_Phy}, Child: {50: L_SkirtA_f_Phy}
+Index 248: Parent: {179: C_SkirtA_f_Phy}, Child: {40: R_SkirtA_f_Phy}
+Index 249: Parent: {180: C_SkirtA_g_Phy}, Child: {181: C_SkirtA_h_Phy}
+Index 250: Parent: {180: C_SkirtA_g_Phy}, Child: {51: L_SkirtA_g_Phy}
+Index 251: Parent: {180: C_SkirtA_g_Phy}, Child: {41: R_SkirtA_g_Phy}
+Index 252: Parent: {181: C_SkirtA_h_Phy}, Child: {182: C_SkirtA_i_Phy}
+Index 253: Parent: {181: C_SkirtA_h_Phy}, Child: {52: L_SkirtA_h_Phy}
+Index 254: Parent: {181: C_SkirtA_h_Phy}, Child: {42: R_SkirtA_h_Phy}
+Index 255: Parent: {182: C_SkirtA_i_Phy}, Child: {183: C_SkirtA_j_Phy}
+Index 256: Parent: {182: C_SkirtA_i_Phy}, Child: {53: L_SkirtA_i_Phy}
+Index 257: Parent: {182: C_SkirtA_i_Phy}, Child: {43: R_SkirtA_i_Phy}
+Index 258: Parent: {183: C_SkirtA_j_Phy}, Child: {54: L_SkirtA_j_Phy}
+Index 259: Parent: {183: C_SkirtA_j_Phy}, Child: {44: R_SkirtA_j_Phy}
+Index 260: Parent: {184: L_SkirtC_a_Phy}, Child: {185: L_SkirtC_b_Phy}
+Index 261: Parent: {185: L_SkirtC_b_Phy}, Child: {186: L_SkirtC_c_Phy}
+Index 262: Parent: {186: L_SkirtC_c_Phy}, Child: {187: L_SkirtC_d_Phy}
+Index 263: Parent: {187: L_SkirtC_d_Phy}, Child: {188: L_SkirtC_e_Phy}
+Index 264: Parent: {188: L_SkirtC_e_Phy}, Child: {189: L_SkirtC_f_Phy}
+Index 265: Parent: {189: L_SkirtC_f_Phy}, Child: {190: L_SkirtC_g_Phy}
+Index 266: Parent: {190: L_SkirtC_g_Phy}, Child: {191: L_SkirtC_h_Phy}
+Index 267: Parent: {191: L_SkirtC_h_Phy}, Child: {192: L_SkirtC_i_Phy}
+Index 268: Parent: {192: L_SkirtC_i_Phy}, Child: {193: L_SkirtC_j_Phy}
+Index 329: Parent: {314: L_StdColUpperLegKdi}, Child: {47: L_SkirtA_c_Phy}
+Index 330: Parent: {314: L_StdColUpperLegKdi}, Child: {48: L_SkirtA_d_Phy}
+Index 331: Parent: {315: R_StdColUpperLegKdi}, Child: {37: R_SkirtA_c_Phy}
+Index 332: Parent: {315: R_StdColUpperLegKdi}, Child: {38: R_SkirtA_d_Phy}
+Index 333: Parent: {15: R_SkirtB_b_Phy}, Child: {321: C_Spine_a}
+Skirt Nodes: 185
+Printing out values for BNM index 5, BNM type m_Planes:
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 0: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 1: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 2: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 3: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 4: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 5: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 6: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 7: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 8: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 9: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 10: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 11: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 12: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 13: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 14: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 15: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 16: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 17: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 18: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 19: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 20: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 21: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 22: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 23: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 24: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 25: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 26: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 27: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 28: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 29: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 30: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 31: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 32: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 33: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 34: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 35: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 36: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 37: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 38: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 39: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 40: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 41: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 42: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 43: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 44: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 45: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 46: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 47: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 48: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 49: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 50: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 51: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 52: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 53: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 54: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 55: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 56: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 57: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 58: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 59: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 60: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 61: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 62: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 63: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 64: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 65: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 66: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 67: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 68: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 69: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 70: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 71: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 72: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 73: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 74: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 75: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 76: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 77: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 78: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 79: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 80: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 81: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 82: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 83: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 84: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 85: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 86: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 87: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 88: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 89: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 90: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 91: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 92: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 93: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 94: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 95: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 96: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 97: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 98: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 99: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 100: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 101: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 102: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 103: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 104: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 105: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 106: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 107: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 108: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 109: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 110: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 111: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 112: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 113: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 114: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 115: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 116: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 117: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 118: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 119: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 120: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 121: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 122: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 123: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 124: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 125: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 126: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 127: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 128: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 129: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 130: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 131: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 132: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 133: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 134: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 135: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 136: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 137: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 138: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 139: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 140: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 141: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 142: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 143: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 144: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 145: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 146: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 147: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 148: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 149: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 150: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 151: Group ID: 13, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 152: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 153: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 154: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 155: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 156: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 157: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 158: Group ID: 17, 
+WARNING: Found Skirt in unexpected type m_ParticleANameIndex 159: Group ID: 17, 
+Skirt Nodes: 160

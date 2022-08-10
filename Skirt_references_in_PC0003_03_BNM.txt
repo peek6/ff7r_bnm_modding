@@ -1,0 +1,252 @@
+Printing out values for BNM index 1, BNM type m_SceneManager:
+Skirt Nodes: 0
+Printing out values for BNM index 2, BNM type m_Solvers:
+Index 1: Group ID: 1, Group: SxySkirt_Col, 
+Index 4: Group ID: 4, Group: SxySkirt, 
+Index 10: Group ID: 10, Group: SxySkirtB_Col, 
+Index 11: Group ID: 11, Group: SxySkirt_Back_L_Col, 
+Index 12: Group ID: 12, Group: SxySkirt_Front_L_Col, 
+Index 13: Group ID: 13, Group: SxySkirt_Back_R_Col, 
+Index 14: Group ID: 14, Group: SxySkirt_Front_R_Col, 
+Index 15: Group ID: 15, Group: SxySkirt_Side_Col, 
+Skirt Nodes: 8
+Printing out values for BNM index 3, BNM type m_Bodies:
+Index 141: Group ID: 4, Joint: C_SxySkirtA_a_Phy, Child: {142: C_SxySkirtA_b_Phy_Body0}
+Index 142: Group ID: 4, Joint: C_SxySkirtA_b_Phy, Parent: {141: C_SxySkirtA_a_Phy_Body0}, Child: {143: C_SxySkirtA_c_Phy_Body0}
+Index 143: Group ID: 4, Joint: C_SxySkirtA_c_Phy, Parent: {142: C_SxySkirtA_b_Phy_Body0}, Child: {144: C_SxySkirtA_d_Phy_Body0}
+Index 144: Group ID: 4, Joint: C_SxySkirtA_d_Phy, Parent: {143: C_SxySkirtA_c_Phy_Body0}, Child: {145: C_SxySkirtA_e_Phy_Body0}
+Index 145: Group ID: 4, Joint: C_SxySkirtA_e_Phy, Parent: {144: C_SxySkirtA_d_Phy_Body0}, Child: {146: C_SxySkirtA_f_Phy_Body0}
+Index 146: Group ID: 4, Joint: C_SxySkirtA_f_Phy, Parent: {145: C_SxySkirtA_e_Phy_Body0}, Child: {147: C_SxySkirtA_g_Phy_Body0}
+Index 147: Group ID: 4, Joint: C_SxySkirtA_g_Phy, Parent: {146: C_SxySkirtA_f_Phy_Body0}, Child: {148: C_SxySkirtA_h_Phy_Body0}
+Index 148: Group ID: 4, Joint: C_SxySkirtA_h_Phy, Parent: {147: C_SxySkirtA_g_Phy_Body0}, Child: {149: C_SxySkirtA_i_Phy_Body0}
+Index 149: Group ID: 4, Joint: C_SxySkirtA_i_Phy, Parent: {148: C_SxySkirtA_h_Phy_Body0}, 
+Index 150: Group ID: 4, Joint: L_SxySkirtC_a_Phy, Child: {151: L_SxySkirtC_b_Phy_Body0}
+Index 151: Group ID: 4, Joint: L_SxySkirtC_b_Phy, Parent: {150: L_SxySkirtC_a_Phy_Body0}, Child: {152: L_SxySkirtC_c_Phy_Body0}
+Index 152: Group ID: 4, Joint: L_SxySkirtC_c_Phy, Parent: {151: L_SxySkirtC_b_Phy_Body0}, Child: {153: L_SxySkirtC_d_Phy_Body0}
+Index 153: Group ID: 4, Joint: L_SxySkirtC_d_Phy, Parent: {152: L_SxySkirtC_c_Phy_Body0}, Child: {154: L_SxySkirtC_e_Phy_Body0}
+Index 154: Group ID: 4, Joint: L_SxySkirtC_e_Phy, Parent: {153: L_SxySkirtC_d_Phy_Body0}, Child: {155: L_SxySkirtC_f_Phy_Body0}
+Index 155: Group ID: 4, Joint: L_SxySkirtC_f_Phy, Parent: {154: L_SxySkirtC_e_Phy_Body0}, Child: {156: L_SxySkirtC_g_Phy_Body0}
+Index 156: Group ID: 4, Joint: L_SxySkirtC_g_Phy, Parent: {155: L_SxySkirtC_f_Phy_Body0}, Child: {157: L_SxySkirtC_h_Phy_Body0}
+Index 157: Group ID: 4, Joint: L_SxySkirtC_h_Phy, Parent: {156: L_SxySkirtC_g_Phy_Body0}, Child: {158: L_SxySkirtC_i_Phy_Body0}
+Index 158: Group ID: 4, Joint: L_SxySkirtC_i_Phy, Parent: {157: L_SxySkirtC_h_Phy_Body0}, 
+Index 159: Group ID: 4, Joint: L_SxySkirtD_a_Phy, Child: {160: L_SxySkirtD_b_Phy_Body0}
+Index 160: Group ID: 4, Joint: L_SxySkirtD_b_Phy, Parent: {159: L_SxySkirtD_a_Phy_Body0}, Child: {161: L_SxySkirtD_c_Phy_Body0}
+Index 161: Group ID: 4, Joint: L_SxySkirtD_c_Phy, Parent: {160: L_SxySkirtD_b_Phy_Body0}, Child: {162: L_SxySkirtD_d_Phy_Body0}
+Index 162: Group ID: 4, Joint: L_SxySkirtD_d_Phy, Parent: {161: L_SxySkirtD_c_Phy_Body0}, Child: {163: L_SxySkirtD_e_Phy_Body0}
+Index 163: Group ID: 4, Joint: L_SxySkirtD_e_Phy, Parent: {162: L_SxySkirtD_d_Phy_Body0}, Child: {164: L_SxySkirtD_f_Phy_Body0}
+Index 164: Group ID: 4, Joint: L_SxySkirtD_f_Phy, Parent: {163: L_SxySkirtD_e_Phy_Body0}, 
+Index 165: Group ID: 4, Joint: L_SxySkirtE_a_Phy, Child: {166: L_SxySkirtE_b_Phy_Body0}
+Index 166: Group ID: 4, Joint: L_SxySkirtE_b_Phy, Parent: {165: L_SxySkirtE_a_Phy_Body0}, Child: {167: L_SxySkirtE_c_Phy_Body0}
+Index 167: Group ID: 4, Joint: L_SxySkirtE_c_Phy, Parent: {166: L_SxySkirtE_b_Phy_Body0}, Child: {168: L_SxySkirtE_d_Phy_Body0}
+Index 168: Group ID: 4, Joint: L_SxySkirtE_d_Phy, Parent: {167: L_SxySkirtE_c_Phy_Body0}, Child: {169: L_SxySkirtE_e_Phy_Body0}
+Index 169: Group ID: 4, Joint: L_SxySkirtE_e_Phy, Parent: {168: L_SxySkirtE_d_Phy_Body0}, Child: {170: L_SxySkirtE_f_Phy_Body0}
+Index 170: Group ID: 4, Joint: L_SxySkirtE_f_Phy, Parent: {169: L_SxySkirtE_e_Phy_Body0}, Child: {171: L_SxySkirtE_g_Phy_Body0}
+Index 171: Group ID: 4, Joint: L_SxySkirtE_g_Phy, Parent: {170: L_SxySkirtE_f_Phy_Body0}, Child: {172: L_SxySkirtE_h_Phy_Body0}
+Index 172: Group ID: 4, Joint: L_SxySkirtE_h_Phy, Parent: {171: L_SxySkirtE_g_Phy_Body0}, Child: {173: L_SxySkirtE_i_Phy_Body0}
+Index 173: Group ID: 4, Joint: L_SxySkirtE_i_Phy, Parent: {172: L_SxySkirtE_h_Phy_Body0}, 
+Index 174: Group ID: 4, Joint: L_SxySkirtF_a_Phy, Child: {175: L_SxySkirtF_b_Phy_Body0}
+Index 175: Group ID: 4, Joint: L_SxySkirtF_b_Phy, Parent: {174: L_SxySkirtF_a_Phy_Body0}, Child: {176: L_SxySkirtF_c_Phy_Body0}
+Index 176: Group ID: 4, Joint: L_SxySkirtF_c_Phy, Parent: {175: L_SxySkirtF_b_Phy_Body0}, Child: {177: L_SxySkirtF_d_Phy_Body0}
+Index 177: Group ID: 4, Joint: L_SxySkirtF_d_Phy, Parent: {176: L_SxySkirtF_c_Phy_Body0}, Child: {178: L_SxySkirtF_e_Phy_Body0}
+Index 178: Group ID: 4, Joint: L_SxySkirtF_e_Phy, Parent: {177: L_SxySkirtF_d_Phy_Body0}, Child: {179: L_SxySkirtF_f_Phy_Body0}
+Index 179: Group ID: 4, Joint: L_SxySkirtF_f_Phy, Parent: {178: L_SxySkirtF_e_Phy_Body0}, Child: {180: L_SxySkirtF_g_Phy_Body0}
+Index 180: Group ID: 4, Joint: L_SxySkirtF_g_Phy, Parent: {179: L_SxySkirtF_f_Phy_Body0}, Child: {181: L_SxySkirtF_h_Phy_Body0}
+Index 181: Group ID: 4, Joint: L_SxySkirtF_h_Phy, Parent: {180: L_SxySkirtF_g_Phy_Body0}, Child: {182: L_SxySkirtF_i_Phy_Body0}
+Index 182: Group ID: 4, Joint: L_SxySkirtF_i_Phy, Parent: {181: L_SxySkirtF_h_Phy_Body0}, 
+Index 183: Group ID: 4, Joint: C_SxySkirtB_a_Phy, Child: {184: C_SxySkirtB_b_Phy_Body0}
+Index 184: Group ID: 4, Joint: C_SxySkirtB_b_Phy, Parent: {183: C_SxySkirtB_a_Phy_Body0}, Child: {185: C_SxySkirtB_c_Phy_Body0}
+Index 185: Group ID: 4, Joint: C_SxySkirtB_c_Phy, Parent: {184: C_SxySkirtB_b_Phy_Body0}, Child: {186: C_SxySkirtB_d_Phy_Body0}
+Index 186: Group ID: 4, Joint: C_SxySkirtB_d_Phy, Parent: {185: C_SxySkirtB_c_Phy_Body0}, Child: {187: C_SxySkirtB_e_Phy_Body0}
+Index 187: Group ID: 4, Joint: C_SxySkirtB_e_Phy, Parent: {186: C_SxySkirtB_d_Phy_Body0}, Child: {188: C_SxySkirtB_f_Phy_Body0}
+Index 188: Group ID: 4, Joint: C_SxySkirtB_f_Phy, Parent: {187: C_SxySkirtB_e_Phy_Body0}, Child: {189: C_SxySkirtB_g_Phy_Body0}
+Index 189: Group ID: 4, Joint: C_SxySkirtB_g_Phy, Parent: {188: C_SxySkirtB_f_Phy_Body0}, Child: {190: C_SxySkirtB_h_Phy_Body0}
+Index 190: Group ID: 4, Joint: C_SxySkirtB_h_Phy, Parent: {189: C_SxySkirtB_g_Phy_Body0}, Child: {191: C_SxySkirtB_i_Phy_Body0}
+Index 191: Group ID: 4, Joint: C_SxySkirtB_i_Phy, Parent: {190: C_SxySkirtB_h_Phy_Body0}, 
+Index 192: Group ID: 4, Joint: R_SxySkirtF_a_Phy, Child: {193: R_SxySkirtF_b_Phy_Body0}
+Index 193: Group ID: 4, Joint: R_SxySkirtF_b_Phy, Parent: {192: R_SxySkirtF_a_Phy_Body0}, Child: {194: R_SxySkirtF_c_Phy_Body0}
+Index 194: Group ID: 4, Joint: R_SxySkirtF_c_Phy, Parent: {193: R_SxySkirtF_b_Phy_Body0}, Child: {195: R_SxySkirtF_d_Phy_Body0}
+Index 195: Group ID: 4, Joint: R_SxySkirtF_d_Phy, Parent: {194: R_SxySkirtF_c_Phy_Body0}, Child: {196: R_SxySkirtF_e_Phy_Body0}
+Index 196: Group ID: 4, Joint: R_SxySkirtF_e_Phy, Parent: {195: R_SxySkirtF_d_Phy_Body0}, Child: {197: R_SxySkirtF_f_Phy_Body0}
+Index 197: Group ID: 4, Joint: R_SxySkirtF_f_Phy, Parent: {196: R_SxySkirtF_e_Phy_Body0}, Child: {198: R_SxySkirtF_g_Phy_Body0}
+Index 198: Group ID: 4, Joint: R_SxySkirtF_g_Phy, Parent: {197: R_SxySkirtF_f_Phy_Body0}, Child: {199: R_SxySkirtF_h_Phy_Body0}
+Index 199: Group ID: 4, Joint: R_SxySkirtF_h_Phy, Parent: {198: R_SxySkirtF_g_Phy_Body0}, Child: {200: R_SxySkirtF_i_Phy_Body0}
+Index 200: Group ID: 4, Joint: R_SxySkirtF_i_Phy, Parent: {199: R_SxySkirtF_h_Phy_Body0}, 
+Index 201: Group ID: 4, Joint: R_SxySkirtE_a_Phy, Child: {202: R_SxySkirtE_b_Phy_Body0}
+Index 202: Group ID: 4, Joint: R_SxySkirtE_b_Phy, Parent: {201: R_SxySkirtE_a_Phy_Body0}, Child: {203: R_SxySkirtE_c_Phy_Body0}
+Index 203: Group ID: 4, Joint: R_SxySkirtE_c_Phy, Parent: {202: R_SxySkirtE_b_Phy_Body0}, Child: {204: R_SxySkirtE_d_Phy_Body0}
+Index 204: Group ID: 4, Joint: R_SxySkirtE_d_Phy, Parent: {203: R_SxySkirtE_c_Phy_Body0}, Child: {205: R_SxySkirtE_e_Phy_Body0}
+Index 205: Group ID: 4, Joint: R_SxySkirtE_e_Phy, Parent: {204: R_SxySkirtE_d_Phy_Body0}, Child: {206: R_SxySkirtE_f_Phy_Body0}
+Index 206: Group ID: 4, Joint: R_SxySkirtE_f_Phy, Parent: {205: R_SxySkirtE_e_Phy_Body0}, Child: {207: R_SxySkirtE_g_Phy_Body0}
+Index 207: Group ID: 4, Joint: R_SxySkirtE_g_Phy, Parent: {206: R_SxySkirtE_f_Phy_Body0}, Child: {208: R_SxySkirtE_h_Phy_Body0}
+Index 208: Group ID: 4, Joint: R_SxySkirtE_h_Phy, Parent: {207: R_SxySkirtE_g_Phy_Body0}, Child: {209: R_SxySkirtE_i_Phy_Body0}
+Index 209: Group ID: 4, Joint: R_SxySkirtE_i_Phy, Parent: {208: R_SxySkirtE_h_Phy_Body0}, 
+Index 210: Group ID: 4, Joint: R_SxySkirtD_a_Phy, Child: {211: R_SxySkirtD_b_Phy_Body0}
+Index 211: Group ID: 4, Joint: R_SxySkirtD_b_Phy, Parent: {210: R_SxySkirtD_a_Phy_Body0}, Child: {212: R_SxySkirtD_c_Phy_Body0}
+Index 212: Group ID: 4, Joint: R_SxySkirtD_c_Phy, Parent: {211: R_SxySkirtD_b_Phy_Body0}, Child: {213: R_SxySkirtD_d_Phy_Body0}
+Index 213: Group ID: 4, Joint: R_SxySkirtD_d_Phy, Parent: {212: R_SxySkirtD_c_Phy_Body0}, Child: {214: R_SxySkirtD_e_Phy_Body0}
+Index 214: Group ID: 4, Joint: R_SxySkirtD_e_Phy, Parent: {213: R_SxySkirtD_d_Phy_Body0}, Child: {215: R_SxySkirtD_f_Phy_Body0}
+Index 215: Group ID: 4, Joint: R_SxySkirtD_f_Phy, Parent: {214: R_SxySkirtD_e_Phy_Body0}, Child: {216: R_SxySkirtD_g_Phy_Body0}
+Index 216: Group ID: 4, Joint: R_SxySkirtD_g_Phy, Parent: {215: R_SxySkirtD_f_Phy_Body0}, Child: {217: R_SxySkirtD_h_Phy_Body0}
+Index 217: Group ID: 4, Joint: R_SxySkirtD_h_Phy, Parent: {216: R_SxySkirtD_g_Phy_Body0}, Child: {218: R_SxySkirtD_i_Phy_Body0}
+Index 218: Group ID: 4, Joint: R_SxySkirtD_i_Phy, Parent: {217: R_SxySkirtD_h_Phy_Body0}, 
+Index 219: Group ID: 4, Joint: R_SxySkirtC_a_Phy, Child: {220: R_SxySkirtC_b_Phy_Body0}
+Index 220: Group ID: 4, Joint: R_SxySkirtC_b_Phy, Parent: {219: R_SxySkirtC_a_Phy_Body0}, Child: {221: R_SxySkirtC_c_Phy_Body0}
+Index 221: Group ID: 4, Joint: R_SxySkirtC_c_Phy, Parent: {220: R_SxySkirtC_b_Phy_Body0}, Child: {222: R_SxySkirtC_d_Phy_Body0}
+Index 222: Group ID: 4, Joint: R_SxySkirtC_d_Phy, Parent: {221: R_SxySkirtC_c_Phy_Body0}, Child: {223: R_SxySkirtC_e_Phy_Body0}
+Index 223: Group ID: 4, Joint: R_SxySkirtC_e_Phy, Parent: {222: R_SxySkirtC_d_Phy_Body0}, Child: {224: R_SxySkirtC_f_Phy_Body0}
+Index 224: Group ID: 4, Joint: R_SxySkirtC_f_Phy, Parent: {223: R_SxySkirtC_e_Phy_Body0}, Child: {225: R_SxySkirtC_g_Phy_Body0}
+Index 225: Group ID: 4, Joint: R_SxySkirtC_g_Phy, Parent: {224: R_SxySkirtC_f_Phy_Body0}, Child: {226: R_SxySkirtC_h_Phy_Body0}
+Index 226: Group ID: 4, Joint: R_SxySkirtC_h_Phy, Parent: {225: R_SxySkirtC_g_Phy_Body0}, Child: {227: R_SxySkirtC_i_Phy_Body0}
+Index 227: Group ID: 4, Joint: R_SxySkirtC_i_Phy, Parent: {226: R_SxySkirtC_h_Phy_Body0}, 
+Skirt Nodes: 87
+Printing out values for BNM index 4, BNM type m_Links:
+Index 68: Parent: {141: C_SxySkirtA_a_Phy}, Child: {142: C_SxySkirtA_b_Phy}
+Index 69: Parent: {142: C_SxySkirtA_b_Phy}, Child: {143: C_SxySkirtA_c_Phy}
+Index 70: Parent: {143: C_SxySkirtA_c_Phy}, Child: {144: C_SxySkirtA_d_Phy}
+Index 71: Parent: {144: C_SxySkirtA_d_Phy}, Child: {145: C_SxySkirtA_e_Phy}
+Index 72: Parent: {145: C_SxySkirtA_e_Phy}, Child: {146: C_SxySkirtA_f_Phy}
+Index 73: Parent: {146: C_SxySkirtA_f_Phy}, Child: {147: C_SxySkirtA_g_Phy}
+Index 74: Parent: {147: C_SxySkirtA_g_Phy}, Child: {148: C_SxySkirtA_h_Phy}
+Index 75: Parent: {148: C_SxySkirtA_h_Phy}, Child: {149: C_SxySkirtA_i_Phy}
+Index 76: Parent: {150: L_SxySkirtC_a_Phy}, Child: {151: L_SxySkirtC_b_Phy}
+Index 77: Parent: {151: L_SxySkirtC_b_Phy}, Child: {152: L_SxySkirtC_c_Phy}
+Index 78: Parent: {152: L_SxySkirtC_c_Phy}, Child: {153: L_SxySkirtC_d_Phy}
+Index 79: Parent: {153: L_SxySkirtC_d_Phy}, Child: {154: L_SxySkirtC_e_Phy}
+Index 80: Parent: {154: L_SxySkirtC_e_Phy}, Child: {155: L_SxySkirtC_f_Phy}
+Index 81: Parent: {155: L_SxySkirtC_f_Phy}, Child: {156: L_SxySkirtC_g_Phy}
+Index 82: Parent: {156: L_SxySkirtC_g_Phy}, Child: {157: L_SxySkirtC_h_Phy}
+Index 83: Parent: {157: L_SxySkirtC_h_Phy}, Child: {158: L_SxySkirtC_i_Phy}
+Index 84: Parent: {159: L_SxySkirtD_a_Phy}, Child: {160: L_SxySkirtD_b_Phy}
+Index 85: Parent: {160: L_SxySkirtD_b_Phy}, Child: {161: L_SxySkirtD_c_Phy}
+Index 86: Parent: {161: L_SxySkirtD_c_Phy}, Child: {162: L_SxySkirtD_d_Phy}
+Index 87: Parent: {162: L_SxySkirtD_d_Phy}, Child: {163: L_SxySkirtD_e_Phy}
+Index 88: Parent: {163: L_SxySkirtD_e_Phy}, Child: {164: L_SxySkirtD_f_Phy}
+Index 89: Parent: {165: L_SxySkirtE_a_Phy}, Child: {166: L_SxySkirtE_b_Phy}
+Index 90: Parent: {166: L_SxySkirtE_b_Phy}, Child: {167: L_SxySkirtE_c_Phy}
+Index 91: Parent: {167: L_SxySkirtE_c_Phy}, Child: {168: L_SxySkirtE_d_Phy}
+Index 92: Parent: {168: L_SxySkirtE_d_Phy}, Child: {169: L_SxySkirtE_e_Phy}
+Index 93: Parent: {169: L_SxySkirtE_e_Phy}, Child: {170: L_SxySkirtE_f_Phy}
+Index 94: Parent: {170: L_SxySkirtE_f_Phy}, Child: {171: L_SxySkirtE_g_Phy}
+Index 95: Parent: {171: L_SxySkirtE_g_Phy}, Child: {172: L_SxySkirtE_h_Phy}
+Index 96: Parent: {172: L_SxySkirtE_h_Phy}, Child: {173: L_SxySkirtE_i_Phy}
+Index 97: Parent: {174: L_SxySkirtF_a_Phy}, Child: {175: L_SxySkirtF_b_Phy}
+Index 98: Parent: {175: L_SxySkirtF_b_Phy}, Child: {176: L_SxySkirtF_c_Phy}
+Index 99: Parent: {176: L_SxySkirtF_c_Phy}, Child: {177: L_SxySkirtF_d_Phy}
+Index 100: Parent: {177: L_SxySkirtF_d_Phy}, Child: {178: L_SxySkirtF_e_Phy}
+Index 101: Parent: {178: L_SxySkirtF_e_Phy}, Child: {179: L_SxySkirtF_f_Phy}
+Index 102: Parent: {179: L_SxySkirtF_f_Phy}, Child: {180: L_SxySkirtF_g_Phy}
+Index 103: Parent: {180: L_SxySkirtF_g_Phy}, Child: {181: L_SxySkirtF_h_Phy}
+Index 104: Parent: {181: L_SxySkirtF_h_Phy}, Child: {182: L_SxySkirtF_i_Phy}
+Index 105: Parent: {183: C_SxySkirtB_a_Phy}, Child: {184: C_SxySkirtB_b_Phy}
+Index 106: Parent: {184: C_SxySkirtB_b_Phy}, Child: {185: C_SxySkirtB_c_Phy}
+Index 107: Parent: {185: C_SxySkirtB_c_Phy}, Child: {186: C_SxySkirtB_d_Phy}
+Index 108: Parent: {186: C_SxySkirtB_d_Phy}, Child: {187: C_SxySkirtB_e_Phy}
+Index 109: Parent: {187: C_SxySkirtB_e_Phy}, Child: {188: C_SxySkirtB_f_Phy}
+Index 110: Parent: {188: C_SxySkirtB_f_Phy}, Child: {189: C_SxySkirtB_g_Phy}
+Index 111: Parent: {189: C_SxySkirtB_g_Phy}, Child: {190: C_SxySkirtB_h_Phy}
+Index 112: Parent: {190: C_SxySkirtB_h_Phy}, Child: {191: C_SxySkirtB_i_Phy}
+Index 113: Parent: {192: R_SxySkirtF_a_Phy}, Child: {193: R_SxySkirtF_b_Phy}
+Index 114: Parent: {193: R_SxySkirtF_b_Phy}, Child: {194: R_SxySkirtF_c_Phy}
+Index 115: Parent: {194: R_SxySkirtF_c_Phy}, Child: {195: R_SxySkirtF_d_Phy}
+Index 116: Parent: {195: R_SxySkirtF_d_Phy}, Child: {196: R_SxySkirtF_e_Phy}
+Index 117: Parent: {196: R_SxySkirtF_e_Phy}, Child: {197: R_SxySkirtF_f_Phy}
+Index 118: Parent: {197: R_SxySkirtF_f_Phy}, Child: {198: R_SxySkirtF_g_Phy}
+Index 119: Parent: {198: R_SxySkirtF_g_Phy}, Child: {199: R_SxySkirtF_h_Phy}
+Index 120: Parent: {199: R_SxySkirtF_h_Phy}, Child: {200: R_SxySkirtF_i_Phy}
+Index 121: Parent: {201: R_SxySkirtE_a_Phy}, Child: {202: R_SxySkirtE_b_Phy}
+Index 122: Parent: {202: R_SxySkirtE_b_Phy}, Child: {203: R_SxySkirtE_c_Phy}
+Index 123: Parent: {203: R_SxySkirtE_c_Phy}, Child: {204: R_SxySkirtE_d_Phy}
+Index 124: Parent: {204: R_SxySkirtE_d_Phy}, Child: {205: R_SxySkirtE_e_Phy}
+Index 125: Parent: {205: R_SxySkirtE_e_Phy}, Child: {206: R_SxySkirtE_f_Phy}
+Index 126: Parent: {206: R_SxySkirtE_f_Phy}, Child: {207: R_SxySkirtE_g_Phy}
+Index 127: Parent: {207: R_SxySkirtE_g_Phy}, Child: {208: R_SxySkirtE_h_Phy}
+Index 128: Parent: {208: R_SxySkirtE_h_Phy}, Child: {209: R_SxySkirtE_i_Phy}
+Index 129: Parent: {210: R_SxySkirtD_a_Phy}, Child: {211: R_SxySkirtD_b_Phy}
+Index 130: Parent: {211: R_SxySkirtD_b_Phy}, Child: {212: R_SxySkirtD_c_Phy}
+Index 131: Parent: {212: R_SxySkirtD_c_Phy}, Child: {213: R_SxySkirtD_d_Phy}
+Index 132: Parent: {213: R_SxySkirtD_d_Phy}, Child: {214: R_SxySkirtD_e_Phy}
+Index 133: Parent: {214: R_SxySkirtD_e_Phy}, Child: {215: R_SxySkirtD_f_Phy}
+Index 134: Parent: {215: R_SxySkirtD_f_Phy}, Child: {216: R_SxySkirtD_g_Phy}
+Index 135: Parent: {216: R_SxySkirtD_g_Phy}, Child: {217: R_SxySkirtD_h_Phy}
+Index 136: Parent: {217: R_SxySkirtD_h_Phy}, Child: {218: R_SxySkirtD_i_Phy}
+Index 137: Parent: {219: R_SxySkirtC_a_Phy}, Child: {220: R_SxySkirtC_b_Phy}
+Index 138: Parent: {220: R_SxySkirtC_b_Phy}, Child: {221: R_SxySkirtC_c_Phy}
+Index 139: Parent: {221: R_SxySkirtC_c_Phy}, Child: {222: R_SxySkirtC_d_Phy}
+Index 140: Parent: {222: R_SxySkirtC_d_Phy}, Child: {223: R_SxySkirtC_e_Phy}
+Index 141: Parent: {223: R_SxySkirtC_e_Phy}, Child: {224: R_SxySkirtC_f_Phy}
+Index 142: Parent: {224: R_SxySkirtC_f_Phy}, Child: {225: R_SxySkirtC_g_Phy}
+Index 143: Parent: {225: R_SxySkirtC_g_Phy}, Child: {226: R_SxySkirtC_h_Phy}
+Index 144: Parent: {226: R_SxySkirtC_h_Phy}, Child: {227: R_SxySkirtC_i_Phy}
+Index 145: Parent: {185: C_SxySkirtB_c_Phy}, Child: {176: L_SxySkirtF_c_Phy}
+Index 146: Parent: {186: C_SxySkirtB_d_Phy}, Child: {177: L_SxySkirtF_d_Phy}
+Index 147: Parent: {187: C_SxySkirtB_e_Phy}, Child: {178: L_SxySkirtF_e_Phy}
+Index 148: Parent: {188: C_SxySkirtB_f_Phy}, Child: {179: L_SxySkirtF_f_Phy}
+Index 149: Parent: {189: C_SxySkirtB_g_Phy}, Child: {180: L_SxySkirtF_g_Phy}
+Index 150: Parent: {190: C_SxySkirtB_h_Phy}, Child: {181: L_SxySkirtF_h_Phy}
+Index 151: Parent: {191: C_SxySkirtB_i_Phy}, Child: {182: L_SxySkirtF_i_Phy}
+Index 152: Parent: {185: C_SxySkirtB_c_Phy}, Child: {194: R_SxySkirtF_c_Phy}
+Index 153: Parent: {186: C_SxySkirtB_d_Phy}, Child: {195: R_SxySkirtF_d_Phy}
+Index 154: Parent: {187: C_SxySkirtB_e_Phy}, Child: {196: R_SxySkirtF_e_Phy}
+Index 155: Parent: {188: C_SxySkirtB_f_Phy}, Child: {197: R_SxySkirtF_f_Phy}
+Index 156: Parent: {189: C_SxySkirtB_g_Phy}, Child: {198: R_SxySkirtF_g_Phy}
+Index 157: Parent: {190: C_SxySkirtB_h_Phy}, Child: {199: R_SxySkirtF_h_Phy}
+Index 158: Parent: {191: C_SxySkirtB_i_Phy}, Child: {200: R_SxySkirtF_i_Phy}
+Index 159: Parent: {203: R_SxySkirtE_c_Phy}, Child: {212: R_SxySkirtD_c_Phy}
+Index 160: Parent: {204: R_SxySkirtE_d_Phy}, Child: {213: R_SxySkirtD_d_Phy}
+Index 161: Parent: {205: R_SxySkirtE_e_Phy}, Child: {214: R_SxySkirtD_e_Phy}
+Index 162: Parent: {206: R_SxySkirtE_f_Phy}, Child: {215: R_SxySkirtD_f_Phy}
+Index 163: Parent: {207: R_SxySkirtE_g_Phy}, Child: {216: R_SxySkirtD_g_Phy}
+Index 164: Parent: {208: R_SxySkirtE_h_Phy}, Child: {217: R_SxySkirtD_h_Phy}
+Index 165: Parent: {209: R_SxySkirtE_i_Phy}, Child: {218: R_SxySkirtD_i_Phy}
+Index 166: Parent: {167: L_SxySkirtE_c_Phy}, Child: {176: L_SxySkirtF_c_Phy}
+Index 167: Parent: {168: L_SxySkirtE_d_Phy}, Child: {177: L_SxySkirtF_d_Phy}
+Index 168: Parent: {169: L_SxySkirtE_e_Phy}, Child: {178: L_SxySkirtF_e_Phy}
+Index 169: Parent: {170: L_SxySkirtE_f_Phy}, Child: {179: L_SxySkirtF_f_Phy}
+Index 170: Parent: {171: L_SxySkirtE_g_Phy}, Child: {180: L_SxySkirtF_g_Phy}
+Index 171: Parent: {172: L_SxySkirtE_h_Phy}, Child: {181: L_SxySkirtF_h_Phy}
+Index 172: Parent: {173: L_SxySkirtE_i_Phy}, Child: {182: L_SxySkirtF_i_Phy}
+Index 173: Parent: {161: L_SxySkirtD_c_Phy}, Child: {152: L_SxySkirtC_c_Phy}
+Index 174: Parent: {162: L_SxySkirtD_d_Phy}, Child: {153: L_SxySkirtC_d_Phy}
+Index 175: Parent: {163: L_SxySkirtD_e_Phy}, Child: {154: L_SxySkirtC_e_Phy}
+Index 176: Parent: {164: L_SxySkirtD_f_Phy}, Child: {155: L_SxySkirtC_f_Phy}
+Index 177: Parent: {143: C_SxySkirtA_c_Phy}, Child: {152: L_SxySkirtC_c_Phy}
+Index 178: Parent: {144: C_SxySkirtA_d_Phy}, Child: {153: L_SxySkirtC_d_Phy}
+Index 179: Parent: {145: C_SxySkirtA_e_Phy}, Child: {154: L_SxySkirtC_e_Phy}
+Index 180: Parent: {146: C_SxySkirtA_f_Phy}, Child: {155: L_SxySkirtC_f_Phy}
+Index 181: Parent: {147: C_SxySkirtA_g_Phy}, Child: {156: L_SxySkirtC_g_Phy}
+Index 182: Parent: {148: C_SxySkirtA_h_Phy}, Child: {157: L_SxySkirtC_h_Phy}
+Index 183: Parent: {149: C_SxySkirtA_i_Phy}, Child: {158: L_SxySkirtC_i_Phy}
+Index 184: Parent: {143: C_SxySkirtA_c_Phy}, Child: {221: R_SxySkirtC_c_Phy}
+Index 185: Parent: {144: C_SxySkirtA_d_Phy}, Child: {222: R_SxySkirtC_d_Phy}
+Index 186: Parent: {145: C_SxySkirtA_e_Phy}, Child: {223: R_SxySkirtC_e_Phy}
+Index 187: Parent: {146: C_SxySkirtA_f_Phy}, Child: {224: R_SxySkirtC_f_Phy}
+Index 188: Parent: {147: C_SxySkirtA_g_Phy}, Child: {225: R_SxySkirtC_g_Phy}
+Index 189: Parent: {148: C_SxySkirtA_h_Phy}, Child: {226: R_SxySkirtC_h_Phy}
+Index 190: Parent: {149: C_SxySkirtA_i_Phy}, Child: {227: R_SxySkirtC_i_Phy}
+Index 191: Parent: {212: R_SxySkirtD_c_Phy}, Child: {221: R_SxySkirtC_c_Phy}
+Index 192: Parent: {213: R_SxySkirtD_d_Phy}, Child: {222: R_SxySkirtC_d_Phy}
+Index 193: Parent: {214: R_SxySkirtD_e_Phy}, Child: {223: R_SxySkirtC_e_Phy}
+Index 194: Parent: {215: R_SxySkirtD_f_Phy}, Child: {224: R_SxySkirtC_f_Phy}
+Index 195: Parent: {216: R_SxySkirtD_g_Phy}, Child: {225: R_SxySkirtC_g_Phy}
+Index 196: Parent: {217: R_SxySkirtD_h_Phy}, Child: {226: R_SxySkirtC_h_Phy}
+Index 197: Parent: {218: R_SxySkirtD_i_Phy}, Child: {227: R_SxySkirtC_i_Phy}
+Index 198: Parent: {203: R_SxySkirtE_c_Phy}, Child: {194: R_SxySkirtF_c_Phy}
+Index 199: Parent: {204: R_SxySkirtE_d_Phy}, Child: {195: R_SxySkirtF_d_Phy}
+Index 200: Parent: {205: R_SxySkirtE_e_Phy}, Child: {196: R_SxySkirtF_e_Phy}
+Index 201: Parent: {206: R_SxySkirtE_f_Phy}, Child: {197: R_SxySkirtF_f_Phy}
+Index 202: Parent: {207: R_SxySkirtE_g_Phy}, Child: {198: R_SxySkirtF_g_Phy}
+Index 203: Parent: {208: R_SxySkirtE_h_Phy}, Child: {199: R_SxySkirtF_h_Phy}
+Index 204: Parent: {209: R_SxySkirtE_i_Phy}, Child: {200: R_SxySkirtF_i_Phy}
+Index 205: Parent: {151: L_SxySkirtC_b_Phy}, Child: {142: C_SxySkirtA_b_Phy}
+Index 206: Parent: {220: R_SxySkirtC_b_Phy}, Child: {142: C_SxySkirtA_b_Phy}
+Index 207: Parent: {160: L_SxySkirtD_b_Phy}, Child: {151: L_SxySkirtC_b_Phy}
+Index 208: Parent: {211: R_SxySkirtD_b_Phy}, Child: {220: R_SxySkirtC_b_Phy}
+Index 209: Parent: {202: R_SxySkirtE_b_Phy}, Child: {211: R_SxySkirtD_b_Phy}
+Index 210: Parent: {166: L_SxySkirtE_b_Phy}, Child: {160: L_SxySkirtD_b_Phy}
+Index 211: Parent: {184: C_SxySkirtB_b_Phy}, Child: {175: L_SxySkirtF_b_Phy}
+Index 212: Parent: {184: C_SxySkirtB_b_Phy}, Child: {193: R_SxySkirtF_b_Phy}
+Index 213: Parent: {202: R_SxySkirtE_b_Phy}, Child: {193: R_SxySkirtF_b_Phy}
+Index 214: Parent: {166: L_SxySkirtE_b_Phy}, Child: {175: L_SxySkirtF_b_Phy}
+Skirt Nodes: 147
+Printing out values for BNM index 5, BNM type m_ShapeMatchings:
+Skirt Nodes: 0

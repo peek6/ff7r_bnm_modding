@@ -1,0 +1,27 @@
+Printing out values for BNM index 1, BNM type m_SceneManager:
+Head Nodes: 0
+Printing out values for BNM index 2, BNM type m_Solvers:
+Head Nodes: 0
+Printing out values for BNM index 3, BNM type m_Bodies:
+Index 250: Group ID: 2, Joint: C_Neck_a, Parent: {242: C_Spine_d_Body3}, Child: {252: C_Head_a_Body0}
+Index 252: Group ID: 2, Joint: C_Head_a, Parent: {250: C_Neck_a_Body0}, 
+Index 253: Group ID: 2, Joint: C_Head_a, Child: {254: C_Head_a_Body2}
+Index 254: Group ID: 2, Joint: C_Head_a, 
+Index 255: Group ID: 19, Joint: C_Head_a, 
+Index 256: Group ID: 12, Joint: C_Head_a, 
+Index 257: Group ID: 12, Joint: C_Head_a, 
+Index 258: Group ID: 12, Joint: C_Head_a, 
+Index 259: Group ID: 12, Joint: C_Head_a, 
+Index 260: Group ID: 12, Joint: C_Head_a, 
+Index 261: Group ID: 12, Joint: C_Head_a, 
+Head Nodes: 11
+Printing out values for BNM index 4, BNM type m_Links:
+Index 276: Parent: {260: C_Head_a}, Child: {267: L_HairA_c_Phy}
+Index 277: Parent: {261: C_Head_a}, Child: {271: R_HairA_c_Phy}
+Index 283: Parent: {267: L_HairA_c_Phy}, Child: {256: C_Head_a}
+Index 284: Parent: {268: L_HairA_d_Phy}, Child: {257: C_Head_a}
+Index 288: Parent: {271: R_HairA_c_Phy}, Child: {259: C_Head_a}
+Index 289: Parent: {272: R_HairA_d_Phy}, Child: {258: C_Head_a}
+Head Nodes: 6
+Printing out values for BNM index 5, BNM type m_Planes:
+Head Nodes: 0
